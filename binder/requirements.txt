@@ -1,0 +1,6 @@
+pyspark
+toree
+pandas
+kensu
+
+jupyter-server-proxy
