@@ -1,1001 +1,1001 @@
 id,date,product,price,quantity
-1,10/24/2021,Lettuce - Boston Bib - Organic,8.8,1
-2,10/21/2021,Wine - Cave Springs Dry Riesling,10.2,3
-3,10/18/2021,Cookie Dough - Peanut Butter,10.9,1
-4,10/19/2021,Triple Sec - Mcguinness,14.2,5
-5,10/23/2021,Beer - Sleemans Honey Brown,16.8,5
-6,10/18/2021,Syrup - Kahlua Chocolate,8.1,5
-7,10/18/2021,Cake - Cake Sheet Macaroon,18.0,3
-8,10/18/2021,Cherries - Frozen,5.5,2
-9,10/22/2021,Devonshire Cream,15.9,2
-10,10/22/2021,Pur Source,7.9,3
-11,10/21/2021,Leeks - Large,12.2,4
-12,10/18/2021,Tea - Apple Green Tea,1.6,4
-13,10/20/2021,Artichoke - Fresh,1.0,1
-14,10/24/2021,Beets - Golden,2.6,2
-15,10/18/2021,Oneshot Automatic Soap System,16.1,2
-16,10/19/2021,Veal - Sweetbread,14.0,5
-17,10/21/2021,Latex Rubber Gloves Size 9,13.0,3
-18,10/24/2021,Trueblue - Blueberry 12x473ml,10.4,5
-19,10/22/2021,Pea - Snow,13.1,1
-20,10/23/2021,Pork - Side Ribs,14.4,3
-21,10/20/2021,Ecolab - Ster Bac,18.7,3
-22,10/23/2021,Lamb Shoulder Boneless Nz,18.3,5
-23,10/18/2021,"Butter - Salted, Micro",17.6,1
-24,10/18/2021,Appetizer - Chicken Satay,14.7,5
-25,10/24/2021,Zucchini - Yellow,11.5,3
-26,10/21/2021,Wine - Malbec Trapiche Reserve,5.6,3
-27,10/22/2021,Nescafe - Frothy French Vanilla,12.9,3
-28,10/22/2021,"Red Snapper - Fresh, Whole",14.5,1
-29,10/20/2021,Beef - Diced,6.0,2
-30,10/21/2021,Cookie Dough - Oatmeal Rasin,3.5,3
-31,10/20/2021,Cake Slab,10.5,1
-32,10/18/2021,Goulash Seasoning,8.3,3
-33,10/19/2021,Anisette - Mcguiness,14.8,5
-34,10/19/2021,Towel Dispenser,14.2,4
-35,10/23/2021,Chips - Miss Vickies,19.3,5
-36,10/18/2021,Bagelers - Cinn / Brown Sugar,4.5,4
-37,10/19/2021,Beef - Short Loin,16.7,4
-38,10/19/2021,Dried Cherries,8.1,4
-39,10/18/2021,Appetizer - Shrimp Puff,18.5,1
-40,10/21/2021,Extract - Almond,18.8,4
-41,10/24/2021,Sauce - Oyster,3.8,1
-42,10/21/2021,Container - Hngd Cll Blk 7x7x3,4.9,1
-43,10/24/2021,Yoplait Drink,13.5,4
-44,10/19/2021,Wine - Taylors Reserve,15.1,4
-45,10/20/2021,Juice - Mango,14.8,1
-46,10/20/2021,"Soup - Knorr, Chicken Noodle",3.7,5
-47,10/18/2021,"Pepper - Paprika, Hungarian",14.3,1
-48,10/24/2021,Yoghurt Tubes,3.4,1
-49,10/23/2021,"Pork - Loin, Bone - In",8.9,3
-50,10/19/2021,Oil - Peanut,6.4,4
-51,10/18/2021,"Vermacelli - Sprinkles, Assorted",10.1,1
-52,10/20/2021,Higashimaru Usukuchi Soy,10.3,5
-53,10/18/2021,Sole - Iqf,8.2,1
-54,10/20/2021,Wine - Black Tower Qr,19.5,2
-55,10/19/2021,Beef - Top Butt,19.4,4
-56,10/21/2021,"Placemat - Scallop, White",4.8,4
-57,10/18/2021,Muffin Orange Individual,4.5,1
-58,10/19/2021,"Beans - Turtle, Black, Dry",3.6,1
-59,10/22/2021,Sea Bass - Whole,18.1,1
-60,10/20/2021,Extract - Lemon,16.5,4
-61,10/18/2021,"Red Snapper - Fresh, Whole",11.6,3
-62,10/18/2021,Turkey Tenderloin Frozen,9.5,1
-63,10/18/2021,Pork - Back Ribs,11.6,3
-64,10/19/2021,"Bread - Roll, Italian",6.0,1
-65,10/24/2021,"Lamb - Whole, Frozen",11.0,2
-66,10/19/2021,Melon - Cantaloupe,7.2,1
-67,10/21/2021,"Lamb - Pieces, Diced",15.8,4
-68,10/24/2021,Cherries - Fresh,6.7,2
-69,10/23/2021,Gelatine Leaves - Bulk,15.6,5
-70,10/19/2021,Monkfish - Fresh,19.4,1
-71,10/23/2021,Beef - Short Loin,17.0,1
-72,10/18/2021,Chinese Lemon Pork,3.3,2
-73,10/24/2021,Compound - Rum,10.7,1
-74,10/18/2021,Oven Mitt - 13 Inch,19.0,1
-75,10/22/2021,Bread - White Mini Epi,5.7,3
-76,10/22/2021,Appetizer - Seafood Assortment,5.3,2
-77,10/20/2021,The Pop Shoppe - Cream Soda,11.1,3
-78,10/21/2021,Soup - Campbellschix Stew,2.9,1
-79,10/20/2021,Higashimaru Usukuchi Soy,3.3,2
-80,10/23/2021,Rice - Jasmine Sented,12.7,5
-81,10/22/2021,Sardines,16.0,4
-82,10/22/2021,Dried Cherries,13.1,5
-83,10/23/2021,Pepper - Orange,1.4,5
-84,10/18/2021,"Juice - Clamato, 341 Ml",3.0,3
-85,10/24/2021,Soap - Mr.clean Floor Soap,12.4,3
-86,10/24/2021,Table Cloth 62x120 White,13.3,1
-87,10/24/2021,Bread - Rye,8.4,5
-88,10/24/2021,Lettuce - Baby Salad Greens,19.9,2
-89,10/22/2021,Pie Pecan,6.9,4
-90,10/21/2021,"Oregano - Dry, Rubbed",17.1,4
-91,10/19/2021,Wine - Tio Pepe Sherry Fino,10.5,1
-92,10/22/2021,Wine - Riesling Alsace Ac 2001,3.6,1
-93,10/24/2021,Yoghurt Tubes,18.7,2
-94,10/21/2021,Longos - Lasagna Beef,7.9,1
-95,10/18/2021,Coriander - Seed,18.8,3
-96,10/18/2021,Foil - Round Foil,7.7,4
-97,10/20/2021,Pepperoni Slices,11.2,5
-98,10/18/2021,Cheese - Fontina,14.0,4
-99,10/20/2021,"Pasta - Fett Alfredo, Single Serve",2.7,2
-100,10/18/2021,Rice - Wild,3.1,2
-101,10/19/2021,Ham - Cooked Italian,14.2,1
-102,10/22/2021,"Placemat - Scallop, White",9.5,3
-103,10/23/2021,Bread - Kimel Stick Poly,3.5,2
-104,10/20/2021,"Salmon - Atlantic, Fresh, Whole",12.2,3
-105,10/22/2021,Tea - Herbal Sweet Dreams,7.7,1
-106,10/19/2021,Horseradish - Prepared,18.5,4
-107,10/19/2021,"Quail - Whole, Bone - In",5.9,4
-108,10/18/2021,Soup - Verve - Chipotle Chicken,9.7,1
-109,10/24/2021,Crackers - Melba Toast,19.0,2
-110,10/22/2021,"Mushrooms - Black, Dried",15.8,2
-111,10/22/2021,"Pasta - Shells, Medium, Dry",4.7,5
-112,10/21/2021,Crackers - Melba Toast,7.6,4
-113,10/21/2021,"Octopus - Baby, Cleaned",2.4,4
-114,10/21/2021,Coffee - Egg Nog Capuccino,9.5,1
-115,10/21/2021,Sesame Seed,11.5,3
-116,10/21/2021,"Soup - Knorr, Country Bean",11.0,2
-117,10/18/2021,"Brandy - Orange, Mc Guiness",7.5,5
-118,10/23/2021,"Water, Tap",13.9,1
-119,10/19/2021,Wine - Magnotta - Cab Sauv,9.7,3
-120,10/21/2021,Wine - Cava Aria Estate Brut,17.0,5
-121,10/23/2021,"Bread - Rolls, Corn",19.7,2
-122,10/20/2021,Wine - Jackson Triggs Okonagan,14.2,3
-123,10/21/2021,Cocoa Feuilletine,12.3,4
-124,10/19/2021,Ham - Proscuitto,2.1,3
-125,10/19/2021,Muffin Mix - Carrot,15.4,1
-126,10/22/2021,Clam - Cherrystone,19.3,3
-127,10/22/2021,Straws - Cocktale,15.3,1
-128,10/19/2021,Pork - Belly Fresh,1.5,3
-129,10/20/2021,Fuji Apples,15.1,1
-130,10/19/2021,Cassis,18.5,5
-131,10/21/2021,Bread - Rye,13.6,4
-132,10/22/2021,Vanilla Beans,8.7,1
-133,10/18/2021,Pear - Prickly,19.0,5
-134,10/18/2021,Beer - Rickards Red,5.5,4
-135,10/24/2021,Veal - Provimi Inside,1.5,4
-136,10/22/2021,"Vermouth - White, Cinzano",14.5,3
-137,10/21/2021,Flour - Fast / Rapid,13.0,1
-138,10/24/2021,Apple - Granny Smith,2.1,3
-139,10/22/2021,Sausage - Blood Pudding,17.0,5
-140,10/23/2021,Beans - French,6.3,1
-141,10/20/2021,Onions - Vidalia,3.0,2
-142,10/24/2021,Cheese Cloth,15.4,1
-143,10/18/2021,Boogies,3.0,3
-144,10/23/2021,Wine - Cotes Du Rhone,1.3,1
-145,10/21/2021,Lamb Leg - Bone - In Nz,10.4,1
-146,10/22/2021,"Nut - Cashews, Whole, Raw",16.2,4
-147,10/18/2021,"Mop Head - Cotton, 24 Oz",12.4,2
-148,10/24/2021,Cake - Box Window 10x10x2.5,6.7,5
-149,10/19/2021,Corn - Mini,5.4,3
-150,10/21/2021,"Cheese - Cheddar, Mild",7.3,5
-151,10/23/2021,Amarula Cream,3.7,4
-152,10/21/2021,Island Oasis - Magarita Mix,5.0,3
-153,10/20/2021,"Lamb - Leg, Bone In",7.2,1
-154,10/24/2021,Jameson - Irish Whiskey,19.3,1
-155,10/22/2021,Pastry - Carrot Muffin - Mini,12.6,1
-156,10/21/2021,"Juice - V8, Tomato",12.6,1
-157,10/19/2021,"Bar Mix - Pina Colada, 355 Ml",9.2,3
-158,10/23/2021,Wine - Pinot Noir Latour,16.7,1
-159,10/21/2021,Buffalo - Tenderloin,9.2,2
-160,10/20/2021,Crackers - Trio,16.7,3
-161,10/20/2021,Cookie Dough - Double,4.1,2
-162,10/23/2021,Oven Mitts 17 Inch,18.6,5
-163,10/21/2021,Ice Cream - Vanilla,18.8,4
-164,10/21/2021,Cleaner - Lime Away,9.4,3
-165,10/21/2021,Bread - Onion Focaccia,6.3,4
-166,10/21/2021,"Soup - Campbells, Cream Of",17.5,5
-167,10/24/2021,Tobasco Sauce,9.1,2
-168,10/21/2021,Beef Tenderloin Aaa,3.9,1
-169,10/23/2021,Coffee - Irish Cream,4.7,5
-170,10/23/2021,Sauce - Cranberry,12.4,4
-171,10/24/2021,"Cheese - Cheddar, Old White",14.6,2
-172,10/18/2021,Wine - Sake,7.2,2
-173,10/24/2021,Cheese - Bocconcini,1.5,1
-174,10/20/2021,Coffee Beans - Chocolate,7.4,3
-175,10/19/2021,Sauce - Hp,19.1,2
-176,10/20/2021,Dr. Pepper - 355ml,11.1,3
-177,10/21/2021,"Mushroom - Porcini, Dry",11.4,4
-178,10/19/2021,Steampan - Foil,17.7,4
-179,10/21/2021,"Wine - Magnotta, Merlot Sr Vqa",16.4,1
-180,10/24/2021,"Pepper - Black, Whole",1.3,2
-181,10/19/2021,Chinese Lemon Pork,3.3,1
-182,10/20/2021,Rappini - Andy Boy,1.6,5
-183,10/20/2021,Tarragon - Fresh,1.6,1
-184,10/21/2021,"Pineapple - Canned, Rings",18.1,4
-185,10/20/2021,Water Chestnut - Canned,12.3,1
-186,10/22/2021,Wine - Black Tower Qr,15.9,2
-187,10/23/2021,"Wine - White, Pinot Grigio",17.2,2
-188,10/21/2021,Allspice - Jamaican,4.3,2
-189,10/19/2021,"Pasta - Elbows, Macaroni, Dry",14.8,2
-190,10/21/2021,"Cheese - Boursin, Garlic / Herbs",12.6,4
-191,10/22/2021,"Chicken - Wings, Tip Off",9.5,5
-192,10/19/2021,Coffee - Egg Nog Capuccino,13.2,3
-193,10/18/2021,"Sauce - White, Mix",14.4,3
-194,10/23/2021,Huck Towels White,5.5,3
-195,10/19/2021,Wine - Barossa Valley Estate,12.4,2
-196,10/20/2021,Yoplait - Strawbrasp Peac,2.1,2
-197,10/20/2021,"Beer - Alexander Kieths, Pale Ale",11.2,2
-198,10/22/2021,Frangelico,10.5,2
-199,10/22/2021,Cocoa Feuilletine,13.0,3
-200,10/19/2021,Celery Root,11.6,1
-201,10/20/2021,Dill Weed - Fresh,14.5,2
-202,10/18/2021,Scallops 60/80 Iqf,6.7,5
-203,10/20/2021,Honey - Comb,6.3,2
-204,10/22/2021,"Cookies - Oreo, 4 Pack",10.7,3
-205,10/22/2021,"Syrup - Monin, Swiss Choclate",12.6,4
-206,10/24/2021,"Tortillas - Flour, 10",11.5,5
-207,10/22/2021,"Rosemary - Primerba, Paste",19.4,4
-208,10/18/2021,Extract - Lemon,17.5,3
-209,10/18/2021,Beer - Steamwhistle,8.0,2
-210,10/21/2021,"Olives - Green, Pitted",16.5,3
-211,10/21/2021,Basil - Fresh,14.8,5
-212,10/22/2021,Steel Wool,10.8,4
-213,10/22/2021,Beer - True North Lager,18.3,2
-214,10/22/2021,Gatorade - Lemon Lime,11.3,2
-215,10/19/2021,Daikon Radish,9.0,3
-216,10/24/2021,Bread - White Epi Baguette,12.7,5
-217,10/19/2021,Bread - Flat Bread,15.5,5
-218,10/23/2021,Lemon Pepper,18.0,4
-219,10/20/2021,"Salt - Rock, Course",11.3,2
-220,10/21/2021,Quinoa,6.8,3
-221,10/20/2021,Sprouts - China Rose,7.3,3
-222,10/24/2021,"Lemonade - Natural, 591 Ml",16.3,2
-223,10/24/2021,Gatorade - Xfactor Berry,14.6,5
-224,10/21/2021,Cheese - Camembert,14.2,2
-225,10/24/2021,Ecolab - Mikroklene 4/4 L,15.4,2
-226,10/23/2021,Pastry - Banana Muffin - Mini,6.1,2
-227,10/23/2021,Sprite - 355 Ml,17.5,3
-228,10/20/2021,Cheese - Pont Couvert,5.4,4
-229,10/18/2021,Cake - Mini Potato Pancake,13.3,5
-230,10/23/2021,Pastrami,15.9,4
-231,10/24/2021,Wine - Redchard Merritt,10.4,4
-232,10/18/2021,"Mushroom - Enoki, Dry",10.9,5
-233,10/22/2021,Pepper Squash,10.4,3
-234,10/19/2021,"Fish - Base, Bouillion",19.5,5
-235,10/19/2021,Lighter - Bbq,3.9,4
-236,10/22/2021,Mudslide,14.9,5
-237,10/24/2021,Sauce - Balsamic Viniagrette,3.6,5
-238,10/22/2021,Calvados - Boulard,10.2,1
-239,10/23/2021,Creme De Menthe Green,9.4,2
-240,10/19/2021,Broom - Angled,2.8,5
-241,10/20/2021,Flour - Strong Pizza,1.3,1
-242,10/23/2021,Table Cloth 54x54 Colour,1.9,2
-243,10/22/2021,"Soup - Beef Conomme, Dry",17.4,1
-244,10/22/2021,Tea - Orange Pekoe,9.8,4
-245,10/20/2021,Muffin - Banana Nut Individual,4.2,4
-246,10/23/2021,Chocolate Bar - Smarties,7.5,5
-247,10/24/2021,Cactus Pads,3.5,3
-248,10/21/2021,Cheese - Sheep Milk,12.2,1
-249,10/22/2021,"Turkey - Breast, Smoked",6.8,5
-250,10/18/2021,Garbag Bags - Black,12.1,5
-251,10/22/2021,"Wine - Sherry Dry Sack, William",17.7,1
-252,10/19/2021,Grapefruit - White,11.3,2
-253,10/24/2021,Sugar - Splenda Sweetener,17.2,2
-254,10/23/2021,"Pasta - Spaghetti, Dry",19.8,3
-255,10/24/2021,Sobe - Orange Carrot,14.0,2
-256,10/18/2021,Longos - Assorted Sandwich,15.9,2
-257,10/20/2021,"Juice - Pineapple, 341 Ml",11.8,1
-258,10/20/2021,Beer - Pilsner Urquell,5.3,2
-259,10/21/2021,Flour - Whole Wheat,6.6,2
-260,10/18/2021,Pepper - Gypsy Pepper,6.1,4
-261,10/20/2021,"Wine - White, Ej",12.9,2
-262,10/22/2021,Pie Pecan,11.2,5
-263,10/21/2021,"Tomatoes - Plum, Canned",19.7,4
-264,10/18/2021,Cranberry Foccacia,2.4,3
-265,10/19/2021,Ice Cream - Fudge Bars,1.5,4
-266,10/21/2021,Apple - Granny Smith,5.8,5
-267,10/21/2021,Ice Cream Bar - Oreo Sandwich,16.4,3
-268,10/24/2021,Pork - Smoked Back Bacon,12.9,5
-269,10/21/2021,Coffee Cup 12oz 5342cd,1.5,4
-270,10/24/2021,"Cheese - Brie, Triple Creme",3.9,1
-271,10/20/2021,"Basil - Primerba, Paste",12.9,2
-272,10/18/2021,"Syrup - Monin, Irish Cream",12.1,1
-273,10/22/2021,Tomatoes - Yellow Hot House,7.1,4
-274,10/22/2021,Corn - On The Cob,5.5,1
-275,10/20/2021,Anisette - Mcguiness,1.5,1
-276,10/24/2021,Spice - Montreal Steak Spice,19.9,4
-277,10/21/2021,Foam Espresso Cup Plain White,9.9,5
-278,10/24/2021,Chocolate - Dark,6.5,5
-279,10/23/2021,Sauce - Cranberry,4.5,3
-280,10/23/2021,Wine - Delicato Merlot,7.3,4
-281,10/23/2021,Beer - Tetleys,3.7,5
-282,10/19/2021,"Coffee - Beans, Whole",4.7,5
-283,10/23/2021,Fruit Mix - Light,11.1,2
-284,10/24/2021,Wine - Chardonnay South,8.8,5
-285,10/18/2021,Wine - Spumante Bambino White,1.6,2
-286,10/23/2021,Pepper - Roasted Red,11.1,3
-287,10/22/2021,"Bread - Pita, Mini",12.7,1
-288,10/19/2021,Kiwi Gold Zespri,9.2,2
-289,10/21/2021,"Soup - Campbells, Spinach Crm",14.7,2
-290,10/21/2021,Syrup - Monin - Granny Smith,9.1,4
-291,10/24/2021,Bread Sour Rolls,6.8,4
-292,10/18/2021,Sponge Cake Mix - Vanilla,6.6,2
-293,10/20/2021,Soup Campbells - Tomato Bisque,7.6,3
-294,10/23/2021,Nutmeg - Ground,5.4,4
-295,10/22/2021,"Cheese - Cheddar, Medium",3.5,1
-296,10/22/2021,Corn Syrup,16.3,2
-297,10/24/2021,Plaintain,10.0,3
-298,10/23/2021,Cake Sheet Combo Party Pack,16.2,5
-299,10/22/2021,Pear - Asian,12.9,2
-300,10/20/2021,Cookie Choc,6.1,2
-301,10/19/2021,"Soup - Beef, Base Mix",10.3,5
-302,10/23/2021,Cookie Dough - Chunky,17.3,3
-303,10/23/2021,Tuna - Bluefin,3.3,3
-304,10/22/2021,Cookies Almond Hazelnut,8.5,3
-305,10/19/2021,Gelatine Leaves - Envelopes,11.5,5
-306,10/22/2021,Bread - Multigrain,10.1,2
-307,10/22/2021,Glass Clear 8 Oz,1.2,2
-308,10/20/2021,Rosemary - Dry,13.3,5
-309,10/23/2021,Sauce - Alfredo,13.4,3
-310,10/20/2021,"Pepper - White, Ground",5.2,3
-311,10/22/2021,Soup Campbells Beef With Veg,8.5,4
-312,10/19/2021,Pasta - Fusili Tri - Coloured,1.0,5
-313,10/23/2021,"Cookies - Oreo, 4 Pack",16.0,1
-314,10/23/2021,Veal - Liver,15.8,5
-315,10/21/2021,"Wine - Sherry Dry Sack, William",16.9,1
-316,10/21/2021,Oyster - In Shell,3.7,4
-317,10/20/2021,Chicken - Leg / Back Attach,17.4,1
-318,10/22/2021,Apron,16.1,2
-319,10/24/2021,Pork - Ham Hocks - Smoked,18.6,3
-320,10/19/2021,Pomello,15.5,4
-321,10/18/2021,Crab - Imitation Flakes,7.8,3
-322,10/21/2021,Veal - Leg,9.8,4
-323,10/23/2021,Nacho Chips,15.0,5
-324,10/24/2021,Pimento - Canned,14.3,5
-325,10/22/2021,Beets - Golden,8.2,3
-326,10/21/2021,Galliano,1.2,2
-327,10/22/2021,Ham - Black Forest,10.2,4
-328,10/20/2021,Sugar - Individual Portions,18.2,1
-329,10/23/2021,Cup - Paper 10oz 92959,15.6,5
-330,10/21/2021,Roe - Flying Fish,8.5,1
-331,10/18/2021,Cream - 35%,10.2,5
-332,10/24/2021,Bagel - Plain,5.9,1
-333,10/23/2021,Aromat Spice / Seasoning,18.3,2
-334,10/22/2021,Cheese - Parmigiano Reggiano,3.3,2
-335,10/23/2021,Fruit Mix - Light,2.1,3
-336,10/20/2021,Crackers - Soda / Saltins,1.6,3
-337,10/23/2021,"Wine - Red, Pinot Noir, Chateau",19.4,1
-338,10/23/2021,Soap - Pine Sol Floor Cleaner,11.8,1
-339,10/18/2021,Lamb Tenderloin Nz Fr,16.9,4
-340,10/18/2021,Truffle Cups - Brown,19.4,1
-341,10/19/2021,Soup - Campbells Beef Strogonoff,15.5,4
-342,10/24/2021,Scotch - Queen Anne,12.8,3
-343,10/24/2021,Chips Potato Salt Vinegar 43g,11.0,2
-344,10/23/2021,Beef - Kobe Striploin,17.5,4
-345,10/18/2021,"Bread - Sticks, Thin, Plain",16.9,2
-346,10/20/2021,"Chicken - Leg, Fresh",17.7,4
-347,10/21/2021,Flour Dark Rye,17.0,3
-348,10/18/2021,Bread - Crusty Italian Poly,15.4,4
-349,10/18/2021,Wine - Peller Estates Late,18.4,4
-350,10/22/2021,Quiche Assorted,18.7,2
-351,10/20/2021,Appetizer - Mushroom Tart,16.8,4
-352,10/22/2021,Pork - Caul Fat,2.4,2
-353,10/23/2021,Kellogs Cereal In A Cup,17.0,2
-354,10/19/2021,Wine - Domaine Boyar Royal,1.8,2
-355,10/23/2021,Pails With Lids,13.7,3
-356,10/22/2021,"Pork - Bacon,back Peameal",11.9,5
-357,10/24/2021,Bar Nature Valley,17.5,2
-358,10/20/2021,Dikon,2.3,3
-359,10/22/2021,Rice Wine - Aji Mirin,16.9,2
-360,10/18/2021,"Lettuce - Romaine, Heart",2.1,3
-361,10/18/2021,Flower - Commercial Bronze,1.0,1
-362,10/24/2021,"Pork - Loin, Boneless",2.6,5
-363,10/23/2021,Cheese - Feta,11.6,1
-364,10/21/2021,Pastry - Plain Baked Croissant,17.3,3
-365,10/23/2021,Cheese - Cheddarsliced,3.6,2
-366,10/21/2021,Bread Cranberry Foccacia,1.9,5
-367,10/23/2021,"Cod - Salted, Boneless",1.4,1
-368,10/23/2021,Lamb - Bones,15.7,4
-369,10/23/2021,Lettuce - Lambs Mash,9.2,3
-370,10/18/2021,Beer - Sleeman Fine Porter,2.4,4
-371,10/22/2021,Soup - Campbells Beef Stew,2.5,5
-372,10/21/2021,Jello - Assorted,14.5,5
-373,10/21/2021,Cookie Dough - Peanut Butter,5.3,4
-374,10/22/2021,Shrimp - 150 - 250,2.4,4
-375,10/19/2021,Appetizer - Escargot Puff,17.1,5
-376,10/19/2021,"Ranchero - Primerba, Paste",11.3,5
-377,10/21/2021,Soup - Tomato Mush. Florentine,2.5,3
-378,10/19/2021,"Corn - Cream, Canned",13.4,2
-379,10/21/2021,Corn Meal,13.3,4
-380,10/20/2021,Sun - Dried Tomatoes,18.4,3
-381,10/23/2021,"Cheese - Cheddar, Medium",19.3,3
-382,10/19/2021,"Asparagus - Green, Fresh",4.2,3
-383,10/24/2021,Cheese - Brie,19.7,1
-384,10/22/2021,Pasta - Ravioli,8.9,3
-385,10/24/2021,Sugar - Icing,7.0,3
-386,10/20/2021,Ginsing - Fresh,18.4,3
-387,10/19/2021,"Wine - White, Mosel Gold",3.1,5
-388,10/24/2021,Wheat - Soft Kernal Of Wheat,2.0,5
-389,10/23/2021,Persimmons,9.5,4
-390,10/23/2021,Glaze - Clear,13.5,4
-391,10/22/2021,Wild Boar - Tenderloin,1.9,4
-392,10/18/2021,Chinese Foods - Plain Fried Rice,18.4,2
-393,10/21/2021,Crab - Meat Combo,7.2,4
-394,10/18/2021,Curry Paste - Madras,6.9,1
-395,10/20/2021,"Lid - Translucent, 3.5 And 6 Oz",5.1,5
-396,10/22/2021,"Pepsi - Diet, 355 Ml",11.9,5
-397,10/23/2021,Cornflakes,18.9,2
-398,10/23/2021,Mushroom - White Button,13.6,1
-399,10/18/2021,Dates,2.3,2
-400,10/23/2021,Wine - Pinot Grigio Collavini,6.8,2
-401,10/22/2021,Shrimp - Black Tiger 6 - 8,19.5,2
-402,10/24/2021,Chicken - Base,15.3,3
-403,10/20/2021,Sandwich Wrap,15.1,4
-404,10/21/2021,Lid - 0090 Clear,3.4,1
-405,10/20/2021,Sunflower Seed Raw,9.5,2
-406,10/20/2021,Pastry - Carrot Muffin - Mini,4.6,1
-407,10/20/2021,Nescafe - Frothy French Vanilla,7.3,5
-408,10/22/2021,Muffin Mix - Morning Glory,7.4,2
-409,10/22/2021,Muffin - Bran Ind Wrpd,14.8,2
-410,10/24/2021,Piping - Bags Quizna,13.2,2
-411,10/21/2021,Pepper - Green,5.8,3
-412,10/19/2021,"Rum - Coconut, Malibu",2.9,2
-413,10/19/2021,Bread - Burger,16.3,5
-414,10/23/2021,Bread - English Muffin,13.0,3
-415,10/20/2021,"Wine - Sherry Dry Sack, William",7.8,4
-416,10/23/2021,"Melon - Watermelon, Seedless",6.7,2
-417,10/21/2021,Scallops - Live In Shell,6.4,5
-418,10/18/2021,Beef - Ground Lean Fresh,19.5,1
-419,10/20/2021,Pork - Shoulder,8.4,4
-420,10/19/2021,Fudge - Chocolate Fudge,14.0,4
-421,10/24/2021,Muffin Batt - Carrot Spice,4.0,2
-422,10/24/2021,Chips - Miss Vickies,13.5,2
-423,10/21/2021,"Syrup - Golden, Lyles",7.5,2
-424,10/18/2021,Beer - Blue,10.7,3
-425,10/20/2021,Trueblue - Blueberry Cranberry,16.1,1
-426,10/21/2021,Energy Drink Red Bull,5.1,3
-427,10/21/2021,Thermometer Digital,8.4,3
-428,10/18/2021,Godiva White Chocolate,4.7,1
-429,10/22/2021,Bread Roll Foccacia,9.4,2
-430,10/24/2021,Ecolab Crystal Fusion,7.6,5
-431,10/22/2021,Carrots - Mini Red Organic,9.2,5
-432,10/23/2021,"Beans - Black Bean, Dry",2.0,3
-433,10/19/2021,Muffin - Mix - Mango Sour Cherry,11.1,5
-434,10/23/2021,Taro Root,10.8,5
-435,10/20/2021,Quail - Jumbo Boneless,14.8,4
-436,10/23/2021,Plasticforkblack,18.7,4
-437,10/23/2021,"Bread - Roll, Italian",9.5,3
-438,10/21/2021,V8 Splash Strawberry Kiwi,6.0,5
-439,10/20/2021,Appetizer - Mango Chevre,14.3,3
-440,10/20/2021,Tuna - Fresh,5.8,5
-441,10/22/2021,"Tart Shells - Sweet, 2",15.9,4
-442,10/23/2021,Coffee - Ristretto Coffee Capsule,5.3,4
-443,10/18/2021,"Lamb - Racks, Frenched",16.6,2
-444,10/22/2021,Wine - Manischewitz Concord,6.0,5
-445,10/24/2021,Cookie - Dough Variety,2.2,5
-446,10/22/2021,"Soup - Knorr, Country Bean",9.0,4
-447,10/18/2021,Juice - Orangina,6.0,5
-448,10/23/2021,Shrimp - Black Tiger 16/20,3.2,5
-449,10/21/2021,Cranberries - Frozen,2.9,2
-450,10/21/2021,Grapes - Green,3.1,2
-451,10/21/2021,Rabbit - Whole,4.6,3
-452,10/23/2021,Praline Paste,4.2,3
-453,10/18/2021,Wine - Savigny - Les - Beaune,5.9,2
-454,10/18/2021,Appetizer - Escargot Puff,7.7,4
-455,10/21/2021,Wiberg Super Cure,9.4,4
-456,10/20/2021,Oil - Pumpkinseed,17.5,2
-457,10/18/2021,Potatoes - Parissienne,5.2,3
-458,10/19/2021,Croissants Thaw And Serve,9.7,3
-459,10/24/2021,Compound - Passion Fruit,4.2,5
-460,10/22/2021,"Quail - Eggs, Fresh",17.7,4
-461,10/24/2021,Cheese - Cheddarsliced,11.4,3
-462,10/22/2021,Ice Cream - Strawberry,3.9,4
-463,10/19/2021,Grouper - Fresh,9.0,3
-464,10/24/2021,Creme De Menth - White,10.9,3
-465,10/20/2021,Bread Bowl Plain,15.8,3
-466,10/20/2021,Wine - Alsace Gewurztraminer,8.0,2
-467,10/19/2021,Broom - Corn,15.4,2
-468,10/22/2021,Bread Base - Italian,18.1,3
-469,10/22/2021,Blueberries - Frozen,4.1,3
-470,10/20/2021,"Vinegar - Balsamic, White",14.7,3
-471,10/19/2021,Pineapple - Golden,8.9,1
-472,10/19/2021,Dr. Pepper - 355ml,13.4,4
-473,10/23/2021,Cookie Dough - Peanut Butter,16.4,5
-474,10/20/2021,Soup - Campbellschix Stew,6.1,2
-475,10/21/2021,Bread Fig And Almond,6.2,3
-476,10/24/2021,"Coke - Diet, 355 Ml",6.4,4
-477,10/19/2021,Container Clear 8 Oz,3.6,5
-478,10/23/2021,Wine - Periguita Fonseca,1.2,3
-479,10/22/2021,Dasheen,17.3,5
-480,10/18/2021,Monkfish - Fresh,1.8,2
-481,10/24/2021,Asparagus - Frozen,18.5,5
-482,10/21/2021,Cheese - Augre Des Champs,16.6,3
-483,10/22/2021,Rice - Long Grain,10.2,2
-484,10/19/2021,Nougat - Paste / Cream,10.9,5
-485,10/23/2021,Cheese - St. Andre,6.0,1
-486,10/22/2021,Corn Shoots,5.1,1
-487,10/20/2021,Sterno - Chafing Dish Fuel,12.4,3
-488,10/18/2021,Flavouring - Raspberry,3.6,4
-489,10/23/2021,Pepper Squash,5.3,1
-490,10/23/2021,Sugar - Splenda Sweetener,5.0,3
-491,10/22/2021,Apron,2.3,4
-492,10/23/2021,Appetizer - Escargot Puff,8.2,4
-493,10/18/2021,Soup - Cream Of Broccoli,7.4,4
-494,10/22/2021,Sponge Cake Mix - Vanilla,5.3,3
-495,10/23/2021,Table Cloth 53x69 White,7.8,4
-496,10/22/2021,Beef - Top Sirloin - Aaa,8.2,1
-497,10/20/2021,"Wine - White, Ej",5.9,2
-498,10/24/2021,Bread - Malt,8.8,2
-499,10/22/2021,Tea - Camomele,9.4,4
-500,10/23/2021,Sauce - Salsa,10.7,4
-501,10/19/2021,Island Oasis - Cappucino Mix,10.1,5
-502,10/23/2021,Pasta - Ravioli,4.0,1
-503,10/24/2021,Mangostein,12.7,5
-504,10/22/2021,Bar - Granola Trail Mix Fruit Nut,16.7,5
-505,10/20/2021,The Pop Shoppe - Root Beer,13.2,4
-506,10/24/2021,Vinegar - Raspberry,3.0,4
-507,10/22/2021,Clam - Cherrystone,12.0,5
-508,10/23/2021,Vinegar - Tarragon,12.3,3
-509,10/23/2021,Wine - Zonnebloem Pinotage,3.6,5
-510,10/19/2021,Ham - Cooked,5.9,5
-511,10/21/2021,Dried Figs,1.8,5
-512,10/20/2021,"Bread - Crumbs, Bulk",17.6,2
-513,10/21/2021,Soup - Campbells - Tomato,4.6,1
-514,10/23/2021,Ham - Cooked,19.7,2
-515,10/22/2021,Wine - Pinot Noir Mondavi Coastal,10.3,3
-516,10/22/2021,Liquid Aminios Acid - Braggs,15.8,1
-517,10/19/2021,"Wine - White, Mosel Gold",8.1,5
-518,10/21/2021,"Olives - Green, Pitted",12.7,2
-519,10/18/2021,Thyme - Dried,16.8,1
-520,10/19/2021,Pants Custom Dry Clean,5.0,4
-521,10/22/2021,Tia Maria,16.6,1
-522,10/21/2021,Lime Cordial - Roses,18.6,4
-523,10/21/2021,"Oregano - Dry, Rubbed",19.3,1
-524,10/18/2021,Carrots - Jumbo,3.5,1
-525,10/18/2021,Turkey - Ground. Lean,9.4,3
-526,10/24/2021,Venison - Striploin,2.6,1
-527,10/23/2021,"Chocolate - Semi Sweet, Calets",1.0,1
-528,10/23/2021,"Wine - White, Riesling, Henry Of",6.8,5
-529,10/21/2021,Pike - Frozen Fillet,16.4,4
-530,10/23/2021,Water - Evian 355 Ml,5.0,1
-531,10/24/2021,"Chocolate - Pistoles, White",12.8,4
-532,10/21/2021,Beef - Bresaola,1.4,5
-533,10/22/2021,Tomato - Green,18.4,2
-534,10/20/2021,Bread - Italian Sesame Poly,7.5,5
-535,10/24/2021,Cream Of Tartar,9.5,3
-536,10/18/2021,"Tart Shells - Savory, 4",4.1,2
-537,10/23/2021,Veal - Insides Provini,18.4,5
-538,10/20/2021,Aspic - Clear,8.3,1
-539,10/21/2021,Mace,8.3,5
-540,10/21/2021,"Veal - Chops, Split, Frenched",3.2,1
-541,10/21/2021,Potato - Sweet,19.4,1
-542,10/20/2021,"Pail - 4l White, With Handle",2.2,1
-543,10/22/2021,Plasticforkblack,19.7,3
-544,10/24/2021,Bagel - Plain,3.2,1
-545,10/24/2021,Paste - Black Olive,12.7,2
-546,10/20/2021,Bread - Raisin Walnut Pull,15.4,4
-547,10/22/2021,Mushroom - King Eryingii,3.4,4
-548,10/23/2021,"Lettuce - Romaine, Heart",4.2,1
-549,10/20/2021,Green Tea Refresher,5.3,3
-550,10/18/2021,Ostrich - Fan Fillet,13.7,2
-551,10/19/2021,Mace Ground,16.5,3
-552,10/19/2021,Savory,15.8,1
-553,10/23/2021,Vaccum Bag - 14x20,5.7,2
-554,10/18/2021,"Sauce - Apple, Unsweetened",17.3,4
-555,10/23/2021,Cheese - Bakers Cream Cheese,19.8,2
-556,10/19/2021,"Pasta - Elbows, Macaroni, Dry",3.0,1
-557,10/24/2021,Wine - Ej Gallo Sierra Valley,13.0,5
-558,10/22/2021,Bread - Ciabatta Buns,16.0,4
-559,10/22/2021,Ecolab - Hand Soap Form Antibac,15.0,1
-560,10/21/2021,"Lamb - Pieces, Diced",16.8,4
-561,10/19/2021,Vinegar - Raspberry,7.1,5
-562,10/19/2021,"Wine - Red, Lurton Merlot De",18.7,1
-563,10/22/2021,Vodka - Moskovskaya,1.5,2
-564,10/23/2021,Melon - Watermelon Yellow,18.6,5
-565,10/19/2021,Shark - Loin,10.3,1
-566,10/21/2021,"Jam - Blackberry, 20 Ml Jar",17.7,1
-567,10/24/2021,"Stock - Beef, White",18.9,2
-568,10/19/2021,Grand Marnier,15.5,3
-569,10/22/2021,Cloves - Ground,15.5,1
-570,10/20/2021,Tamarillo,6.0,3
-571,10/19/2021,Bay Leaf,18.7,5
-572,10/24/2021,Beans - Fine,3.9,3
-573,10/23/2021,Pork - Kidney,8.7,2
-574,10/22/2021,Tuna - Salad Premix,16.1,5
-575,10/23/2021,Lighter - Bbq,12.3,1
-576,10/18/2021,Arizona - Green Tea,13.8,5
-577,10/18/2021,Lamb Rack Frenched Australian,4.5,4
-578,10/19/2021,"Water - Spring Water, 355 Ml",12.9,1
-579,10/24/2021,Cake - Dulce De Leche,8.3,3
-580,10/18/2021,Bay Leaf,18.7,3
-581,10/23/2021,Muffin Puck Ww Carrot,13.1,3
-582,10/23/2021,Sprouts - Onion,5.4,1
-583,10/22/2021,"Carrots - Purple, Organic",10.1,5
-584,10/23/2021,Pastry - Apple Large,4.6,2
-585,10/21/2021,"Pesto - Primerba, Paste",8.3,3
-586,10/21/2021,Banana,10.0,1
-587,10/21/2021,Container - Clear 16 Oz,16.6,4
-588,10/19/2021,Sauce - Caesar Dressing,7.4,3
-589,10/24/2021,Muffins - Assorted,1.8,5
-590,10/24/2021,Wine - Alsace Riesling Reserve,3.9,5
-591,10/18/2021,Juice - Lime,12.6,1
-592,10/18/2021,Fish - Bones,7.6,2
-593,10/19/2021,Container - Clear 32 Oz,1.4,5
-594,10/20/2021,Pate - Liver,7.9,1
-595,10/21/2021,Soup Campbells - Tomato Bisque,1.1,3
-596,10/24/2021,Evaporated Milk - Skim,10.3,2
-597,10/23/2021,Wine - Shiraz Wolf Blass Premium,13.3,2
-598,10/23/2021,Artichokes - Jerusalem,4.6,2
-599,10/23/2021,"Oil - Truffle, Black",12.7,2
-600,10/19/2021,Lemon Tarts,9.8,2
-601,10/18/2021,Ocean Spray - Kiwi Strawberry,11.2,4
-602,10/19/2021,Chicken - Whole,19.8,3
-603,10/18/2021,Beets - Pickled,15.5,1
-604,10/22/2021,Peach - Halves,9.0,2
-605,10/21/2021,Petite Baguette,3.6,5
-606,10/24/2021,Ecolab - Solid Fusion,7.7,4
-607,10/23/2021,Apron,14.1,1
-608,10/20/2021,Beans - Soya Bean,4.8,2
-609,10/22/2021,"Nut - Hazelnut, Whole",4.1,4
-610,10/19/2021,The Pop Shoppe - Black Cherry,16.6,4
-611,10/24/2021,Anisette - Mcguiness,18.0,3
-612,10/24/2021,"Beef - Chuck, Boneless",11.8,5
-613,10/18/2021,"Tendrils - Baby Pea, Organic",3.4,3
-614,10/24/2021,Lidsoupcont Rp12dn,8.3,2
-615,10/22/2021,Campari,14.1,5
-616,10/23/2021,Sobe - Berry Energy,11.2,2
-617,10/22/2021,"Chestnuts - Whole,canned",20.0,4
-618,10/19/2021,Artichokes - Jerusalem,16.5,5
-619,10/23/2021,Eggs - Extra Large,18.0,5
-620,10/18/2021,Pork - Backs - Boneless,6.7,1
-621,10/20/2021,Cookies - Fortune,9.3,2
-622,10/24/2021,Durian Fruit,14.8,4
-623,10/19/2021,Flavouring - Raspberry,2.5,5
-624,10/22/2021,Munchies Honey Sweet Trail Mix,3.3,5
-625,10/23/2021,"Iced Tea - Lemon, 460 Ml",17.9,2
-626,10/18/2021,"Rum - Spiced, Captain Morgan",11.5,1
-627,10/24/2021,Flour - Teff,5.0,2
-628,10/20/2021,Coriander - Seed,19.7,5
-629,10/24/2021,Cheese - Comtomme,9.0,4
-630,10/22/2021,Bread Base - Italian,10.6,3
-631,10/20/2021,Beer - Sleemans Honey Brown,2.2,2
-632,10/23/2021,Crackers - Soda / Saltins,10.6,1
-633,10/19/2021,Garbag Bags - Black,6.3,3
-634,10/20/2021,Ecolab - Hand Soap Form Antibac,12.0,1
-635,10/22/2021,"Soup - Campbells, Creamy",19.9,3
-636,10/22/2021,"Coffee - Colombian, Portioned",13.1,1
-637,10/21/2021,"Water - Spring Water, 355 Ml",7.9,5
-638,10/24/2021,Rootbeer,8.5,3
-639,10/19/2021,V8 Splash Strawberry Banana,18.8,5
-640,10/21/2021,"Pork - Sausage, Medium",13.3,4
-641,10/20/2021,"Soup - Campbells, Creamy",18.3,3
-642,10/24/2021,Pepper - Red Thai,10.3,1
-643,10/23/2021,"Bread - Multigrain, Loaf",17.3,5
-644,10/19/2021,Fennel,17.2,3
-645,10/23/2021,Apple - Northern Spy,15.2,2
-646,10/24/2021,Bread - White Epi Baguette,9.4,3
-647,10/21/2021,Lady Fingers,17.4,4
-648,10/21/2021,Broom Handle,7.0,2
-649,10/18/2021,Cookie Double Choco,1.1,4
-650,10/18/2021,Beer - Sleemans Honey Brown,6.5,3
-651,10/18/2021,Cauliflower,7.5,5
-652,10/19/2021,Table Cloth 53x53 White,5.3,2
-653,10/19/2021,Sage Ground Wiberg,3.4,4
-654,10/21/2021,"Soup - Knorr, Chicken Noodle",15.6,5
-655,10/23/2021,Bandage - Finger Cots,8.4,4
-656,10/24/2021,Wine - Soave Folonari,9.8,3
-657,10/18/2021,"Beans - Fava, Canned",18.0,4
-658,10/23/2021,Bacardi Raspberry,12.5,5
-659,10/21/2021,Sage - Fresh,5.1,2
-660,10/18/2021,Cocoa Powder - Natural,19.4,5
-661,10/20/2021,Cloves - Ground,18.4,2
-662,10/21/2021,Bay Leaf,18.2,1
-663,10/21/2021,Onions - Vidalia,14.2,5
-664,10/22/2021,Spring Roll Veg Mini,4.0,5
-665,10/21/2021,Beef Cheek Fresh,7.1,1
-666,10/21/2021,Muffin Mix - Chocolate Chip,9.1,2
-667,10/20/2021,Longan,12.5,5
-668,10/24/2021,Bread - Corn Muffaleta Onion,18.4,2
-669,10/23/2021,Onions - White,13.6,5
-670,10/19/2021,Passion Fruit,14.4,5
-671,10/24/2021,Tea - Camomele,9.8,1
-672,10/23/2021,Magnotta Bel Paese Red,12.7,1
-673,10/19/2021,Shiratamako - Rice Flour,10.3,4
-674,10/23/2021,Fenngreek Seed,18.1,1
-675,10/23/2021,Tuna - Fresh,7.3,5
-676,10/22/2021,Sage Derby,11.7,2
-677,10/21/2021,Melon - Honey Dew,1.7,5
-678,10/23/2021,Quinoa,16.6,2
-679,10/22/2021,"Rice Pilaf, Dry,package",5.8,3
-680,10/22/2021,Tuna - Salad Premix,11.8,3
-681,10/24/2021,Apricots - Halves,14.6,5
-682,10/24/2021,"Wine - Harrow Estates, Vidal",3.6,1
-683,10/20/2021,Napkin White - Starched,19.4,3
-684,10/21/2021,Gatorade - Orange,3.4,2
-685,10/19/2021,Foil Wrap,8.2,3
-686,10/20/2021,Pizza Pizza Dough,19.8,4
-687,10/24/2021,"Oranges - Navel, 72",5.0,1
-688,10/18/2021,Sage - Ground,11.0,3
-689,10/21/2021,Mayonnaise - Individual Pkg,13.5,3
-690,10/18/2021,Daves Island Stinger,9.7,5
-691,10/22/2021,Tofu - Soft,5.7,4
-692,10/22/2021,Oven Mitt - 13 Inch,9.9,3
-693,10/19/2021,Halibut - Fletches,3.7,5
-694,10/19/2021,Tandoori Curry Paste,4.3,1
-695,10/19/2021,"Crab - Dungeness, Whole, live",5.5,2
-696,10/22/2021,Water - San Pellegrino,8.6,5
-697,10/18/2021,Apples - Spartan,4.6,5
-698,10/19/2021,Wine - Lou Black Shiraz,18.3,5
-699,10/20/2021,Chick Peas - Canned,12.3,2
-700,10/20/2021,Longos - Chicken Wings,19.3,5
-701,10/22/2021,"Veal - Brisket, Provimi,bnls",3.3,2
-702,10/20/2021,Beans - Kidney White,4.6,3
-703,10/22/2021,Corn Kernels - Frozen,15.2,2
-704,10/19/2021,Olives - Morracan Dired,11.1,2
-705,10/21/2021,"Crab - Dungeness, Whole, live",14.2,5
-706,10/21/2021,Bagel - Plain,4.3,4
-707,10/23/2021,"Lamb - Loin, Trimmed, Boneless",13.0,1
-708,10/24/2021,Horseradish Root,7.5,1
-709,10/19/2021,Chicken - Wieners,13.1,4
-710,10/22/2021,"Rum - Dark, Bacardi, Black",19.2,1
-711,10/24/2021,Ice Cream Bar - Hageen Daz To,8.2,2
-712,10/21/2021,Muffin Hinge - 211n,13.4,4
-713,10/23/2021,Sausage - Andouille,13.3,2
-714,10/23/2021,"Lamb - Loin, Trimmed, Boneless",18.6,3
-715,10/21/2021,Muffin - Bran Ind Wrpd,14.2,5
-716,10/22/2021,Cheese - Taleggio D.o.p.,6.4,2
-717,10/19/2021,Chocolate Bar - Reese Pieces,19.8,4
-718,10/22/2021,Beer - Moosehead,3.7,1
-719,10/24/2021,Miso Paste White,9.0,2
-720,10/22/2021,Appetizer - Mushroom Tart,1.3,4
-721,10/22/2021,Bamboo Shoots - Sliced,19.1,2
-722,10/19/2021,Yoplait Drink,7.0,5
-723,10/24/2021,"Soup - Knorr, Country Bean",7.2,2
-724,10/24/2021,Fiddlehead - Frozen,7.2,2
-725,10/18/2021,Toothpick Frilled,12.5,4
-726,10/22/2021,Watercress,3.8,5
-727,10/18/2021,Nantucket - Kiwi Berry Cktl.,5.9,1
-728,10/24/2021,Pepper - Chili Powder,3.8,3
-729,10/24/2021,Pickle - Dill,2.7,3
-730,10/23/2021,"Tray - Foam, Square 4 - S",16.8,4
-731,10/19/2021,Roe - Flying Fish,19.6,3
-732,10/20/2021,Sobe - Green Tea,7.6,4
-733,10/20/2021,Carbonated Water - White Grape,2.9,4
-734,10/18/2021,Red Currants,14.0,4
-735,10/23/2021,Chocolate - Milk Coating,13.5,1
-736,10/18/2021,Coffee - Dark Roast,5.6,2
-737,10/21/2021,Garbage Bag - Clear,18.6,2
-738,10/18/2021,Cookie Double Choco,12.9,4
-739,10/22/2021,Cheese - Gouda Smoked,4.5,5
-740,10/18/2021,Wheat - Soft Kernal Of Wheat,5.6,5
-741,10/24/2021,Kellogs All Bran Bars,15.0,5
-742,10/20/2021,French Kiss Vanilla,15.2,3
-743,10/20/2021,Coffee Swiss Choc Almond,5.5,4
-744,10/19/2021,Soup - Cream Of Broccoli,18.3,5
-745,10/23/2021,Tahini Paste,3.6,5
-746,10/23/2021,Beer - Blue Light,14.5,3
-747,10/22/2021,Venison - Liver,12.6,1
-748,10/24/2021,Pepper - Scotch Bonnet,4.5,3
-749,10/23/2021,Lamb - Shoulder,1.4,1
-750,10/21/2021,V8 - Berry Blend,18.1,2
-751,10/24/2021,"Split Peas - Yellow, Dry",7.9,3
-752,10/20/2021,Salad Dressing,15.1,1
-753,10/23/2021,Puree - Pear,11.4,2
-754,10/19/2021,Wine - Two Oceans Sauvignon,4.4,4
-755,10/22/2021,Beans - Kidney White,14.6,4
-756,10/23/2021,Chinese Lemon Pork,6.6,1
-757,10/23/2021,Sprouts - Alfalfa,7.1,5
-758,10/24/2021,Gingerale - Diet - Schweppes,17.8,2
-759,10/18/2021,Apron,1.7,5
-760,10/24/2021,Towels - Paper / Kraft,13.6,4
-761,10/18/2021,"Nut - Cashews, Whole, Raw",6.3,1
-762,10/24/2021,Lobster - Tail 6 Oz,4.5,2
-763,10/20/2021,"Soup - Campbells, Lentil",4.5,5
-764,10/24/2021,Wine - Segura Viudas Aria Brut,6.0,4
-765,10/19/2021,Gatorade - Cool Blue Raspberry,13.4,2
-766,10/24/2021,Bread - Dark Rye,11.7,5
-767,10/21/2021,Orange - Blood,11.7,3
-768,10/18/2021,Kahlua,14.4,5
-769,10/18/2021,Haggis,17.5,1
-770,10/21/2021,Mousse - Mango,18.4,1
-771,10/23/2021,"Split Peas - Yellow, Dry",4.7,2
-772,10/23/2021,Ginger - Ground,6.9,5
-773,10/21/2021,"Bread - White, Unsliced",14.2,4
-774,10/19/2021,Juice - Ocean Spray Kiwi,4.7,1
-775,10/22/2021,Broom - Corn,5.4,4
-776,10/19/2021,Bar Energy Chocchip,9.8,5
-777,10/22/2021,Beef - Montreal Smoked Brisket,3.4,2
-778,10/21/2021,Vodka - Moskovskaya,9.4,5
-779,10/18/2021,"Beef - Rib Roast, Capless",18.0,1
-780,10/20/2021,Soup - Campbells Beef Strogonoff,9.9,2
-781,10/18/2021,Crackers - Soda / Saltins,6.2,1
-782,10/18/2021,Garbag Bags - Black,4.1,1
-783,10/22/2021,Aspic - Clear,1.3,2
-784,10/21/2021,"Marsala - Sperone, Fine, D.o.c.",13.4,5
-785,10/20/2021,"Tart Shells - Savory, 4",2.3,2
-786,10/20/2021,Bouillion - Fish,10.8,1
-787,10/22/2021,"Lid - 10,12,16 Oz",16.3,2
-788,10/22/2021,Pastry - Choclate Baked,5.8,2
-789,10/19/2021,Lamb - Rack,1.7,1
-790,10/24/2021,Glass - Juice Clear 5oz 55005,5.8,3
-791,10/18/2021,Mussels - Frozen,7.0,1
-792,10/21/2021,Milk - Condensed,5.8,5
-793,10/19/2021,Scallops - 10/20,10.4,2
-794,10/18/2021,"Wine - White, Ej",14.6,3
-795,10/21/2021,"Coconut - Shredded, Sweet",3.4,1
-796,10/23/2021,Cognac - Courvaisier,11.8,4
-797,10/20/2021,Pear - Asian,16.5,3
-798,10/24/2021,Snails - Large Canned,3.6,1
-799,10/23/2021,Trueblue - Blueberry,13.4,5
-800,10/23/2021,Tuna - Sushi Grade,18.3,3
-801,10/18/2021,Muffin Batt - Choc Chk,14.4,4
-802,10/19/2021,"Chilli Paste, Hot Sambal Oelek",14.2,4
-803,10/23/2021,Tofu - Firm,10.6,3
-804,10/18/2021,"Tarragon - Primerba, Paste",1.3,1
-805,10/24/2021,"Beef - Bones, Cut - Up",12.6,2
-806,10/19/2021,Grapes - Red,18.4,2
-807,10/20/2021,Sauce - Soy Low Sodium - 3.87l,18.1,3
-808,10/24/2021,Wine - Clavet Saint Emilion,3.9,5
-809,10/24/2021,Wine - Chateau Timberlay,16.2,2
-810,10/22/2021,Berry Brulee,19.3,5
-811,10/24/2021,Pork - Shoulder,10.6,1
-812,10/23/2021,Sauce - Ranch Dressing,10.2,5
-813,10/23/2021,Spice - Peppercorn Melange,19.5,2
-814,10/19/2021,Dc Hikiage Hira Huba,13.2,2
-815,10/21/2021,Table Cloth 54x54 White,1.2,5
-816,10/20/2021,Milk - 2% 250 Ml,14.5,2
-817,10/20/2021,Cake - Box Window 10x10x2.5,16.0,1
-818,10/20/2021,Steel Wool S.o.s,2.6,2
-819,10/19/2021,"Coffee - Beans, Whole",6.1,5
-820,10/18/2021,Scallops - Live In Shell,4.5,3
-821,10/24/2021,Drambuie,12.7,4
-822,10/18/2021,Mustard - Dijon,10.4,1
-823,10/24/2021,Beef - Short Loin,1.9,5
-824,10/18/2021,Lettuce - Arugula,8.1,3
-825,10/19/2021,"Jam - Raspberry,jar",8.6,2
-826,10/18/2021,Temperature Recording Station,3.8,3
-827,10/20/2021,Cake Sheet Combo Party Pack,10.1,5
-828,10/23/2021,"Pail - 15l White, With Handle",17.2,2
-829,10/21/2021,Pastry - Choclate Baked,15.4,5
-830,10/23/2021,"Shrimp - 16/20, Iqf, Shell On",12.9,4
-831,10/21/2021,"Wine - Red, Wolf Blass, Yellow",18.6,5
-832,10/19/2021,Syrup - Chocolate,1.7,1
-833,10/23/2021,"Soup - Canadian Pea, Dry Mix",3.3,4
-834,10/24/2021,Cookies - Englishbay Chochip,17.5,5
-835,10/19/2021,Island Oasis - Sweet And Sour Mix,2.9,4
-836,10/23/2021,Glass Clear 8 Oz,5.0,1
-837,10/19/2021,Shrimp - Prawn,16.9,4
-838,10/19/2021,Bread - 10 Grain Parisian,8.6,4
-839,10/21/2021,Sauce - Salsa,12.0,1
-840,10/21/2021,Wine - Pinot Noir Latour,11.1,5
-841,10/21/2021,Mousse - Banana Chocolate,5.4,2
-842,10/19/2021,Wine - Domaine Boyar Royal,7.2,5
-843,10/18/2021,Mushroom - King Eryingii,16.6,1
-844,10/21/2021,Gooseberry,8.9,4
-845,10/23/2021,Garlic - Peeled,13.6,3
-846,10/21/2021,Fondant - Icing,11.7,3
-847,10/22/2021,Jam - Apricot,15.0,4
-848,10/19/2021,"Pasta - Bauletti, Chicken White",10.8,4
-849,10/24/2021,"Bread - Bagels, Plain",14.2,1
-850,10/24/2021,Pineapple - Regular,13.4,4
-851,10/23/2021,"Beans - Kidney, Red Dry",6.7,3
-852,10/18/2021,Puff Pastry - Slab,3.5,2
-853,10/24/2021,Laundry - Bag Cloth,14.0,2
-854,10/19/2021,Sobe - Tropical Energy,18.2,4
-855,10/20/2021,Mince Meat - Filling,13.2,2
-856,10/21/2021,Initation Crab Meat,14.0,2
-857,10/19/2021,"Apple - Delicious, Golden",11.8,2
-858,10/21/2021,Ecolab - Ster Bac,16.0,1
-859,10/24/2021,Pur Value,18.2,3
-860,10/20/2021,Chip - Potato Dill Pickle,16.5,2
-861,10/23/2021,"Wine - Red, Cooking",14.9,5
-862,10/18/2021,Sauce - Hollandaise,12.7,3
-863,10/22/2021,Bagel - Sesame Seed Presliced,15.0,5
-864,10/18/2021,"Squash - Pattypan, Yellow",14.1,2
-865,10/24/2021,"Mushroom - Chantrelle, Fresh",15.3,5
-866,10/21/2021,"Artichoke - Hearts, Canned",15.2,1
-867,10/22/2021,"Wine - White, Ej Gallo",18.6,3
-868,10/24/2021,Syrup - Pancake,14.7,3
-869,10/24/2021,Wine - Vovray Sec Domaine Huet,9.7,5
-870,10/24/2021,Wooden Mop Handle,14.0,1
-871,10/18/2021,Eggs - Extra Large,7.3,3
-872,10/18/2021,Pan Grease,1.8,3
-873,10/24/2021,Beets,12.4,1
-874,10/24/2021,Onion - Dried,16.5,2
-875,10/21/2021,Squid - Breaded,13.0,1
-876,10/23/2021,Puree - Raspberry,10.5,3
-877,10/24/2021,Island Oasis - Lemonade,15.2,2
-878,10/19/2021,Green Scrubbie Pad H.duty,11.1,5
-879,10/23/2021,"Beans - Black Bean, Canned",16.4,3
-880,10/20/2021,Chips Potato Swt Chilli Sour,16.7,5
-881,10/22/2021,Pickerel - Fillets,14.4,4
-882,10/20/2021,Pork Loin Bine - In Frenched,13.0,3
-883,10/20/2021,Wine - Spumante Bambino White,17.6,1
-884,10/21/2021,"Beef - Tenderlion, Center Cut",7.1,1
-885,10/23/2021,Beer - Maudite,10.0,4
-886,10/19/2021,Cumin - Ground,10.4,5
-887,10/21/2021,Chicken - Soup Base,7.9,3
-888,10/22/2021,Sauce - Hp,10.3,2
-889,10/19/2021,Pop - Club Soda Can,12.7,1
-890,10/24/2021,"Nut - Walnut, Chopped",17.0,3
-891,10/21/2021,"Wine - Red, Lurton Merlot De",8.5,2
-892,10/22/2021,Pastry - Lemon Danish - Mini,7.1,2
-893,10/20/2021,Wine - Chablis J Moreau Et Fils,16.6,1
-894,10/24/2021,Aspic - Amber,11.3,1
-895,10/24/2021,Clam Nectar,15.5,4
-896,10/23/2021,Chicken - Whole,14.5,4
-897,10/24/2021,Chick Peas - Dried,4.1,2
-898,10/22/2021,Duck - Whole,6.6,3
-899,10/24/2021,Squash - Butternut,9.4,2
-900,10/18/2021,Tomatoes - Orange,11.9,1
-901,10/18/2021,Garbage Bag - Clear,16.0,2
-902,10/24/2021,Mackerel Whole Fresh,8.8,2
-903,10/18/2021,Catfish - Fillets,2.4,2
-904,10/20/2021,Grapefruit - White,3.1,2
-905,10/18/2021,Wild Boar - Tenderloin,1.1,2
-906,10/20/2021,Rice - Aborio,18.0,1
-907,10/20/2021,Pastry - Plain Baked Croissant,6.0,1
-908,10/24/2021,Wine - Gewurztraminer Pierre,4.9,2
-909,10/23/2021,Wine - Segura Viudas Aria Brut,2.4,3
-910,10/23/2021,Muffin Mix - Carrot,5.9,5
-911,10/20/2021,Sauce Bbq Smokey,10.3,5
-912,10/18/2021,"Pasta - Fusili, Dry",2.9,1
-913,10/23/2021,"Cheese - Cheddar, Mild",9.0,3
-914,10/21/2021,Wine - Winzer Krems Gruner,4.5,5
-915,10/19/2021,Crawfish,11.7,1
-916,10/20/2021,Marzipan 50/50,5.1,4
-917,10/20/2021,Melon - Honey Dew,12.2,2
-918,10/22/2021,Cookie Trail Mix,12.7,2
-919,10/18/2021,Sherry - Dry,8.3,1
-920,10/18/2021,Energy Drink Bawls,9.5,3
-921,10/21/2021,"Soup - Campbells, Classic Chix",9.7,5
-922,10/18/2021,Eggplant Oriental,4.1,3
-923,10/24/2021,Cheese - Le Cheve Noir,14.5,4
-924,10/23/2021,Apple - Fuji,19.9,3
-925,10/24/2021,Juice - V8 Splash,6.0,4
-926,10/22/2021,Grapefruit - Pink,15.3,2
-927,10/19/2021,"Thyme - Lemon, Fresh",5.7,5
-928,10/23/2021,"Basil - Dry, Rubbed",18.3,1
-929,10/20/2021,Ecolab - Ster Bac,7.0,1
-930,10/22/2021,"Doilies - 8, Paper",13.2,3
-931,10/23/2021,Fuji Apples,11.2,3
-932,10/24/2021,Wine - Valpolicella Masi,3.1,2
-933,10/23/2021,Marzipan 50/50,12.7,3
-934,10/24/2021,Spinach - Frozen,17.2,5
-935,10/20/2021,Potatoes - Pei 10 Oz,11.2,3
-936,10/24/2021,Soup - Cream Of Potato / Leek,1.8,4
-937,10/21/2021,Cookies - Englishbay Oatmeal,7.0,5
-938,10/19/2021,Wine - Winzer Krems Gruner,5.5,2
-939,10/21/2021,Sprouts Dikon,5.9,2
-940,10/19/2021,Sauce - Plum,3.1,5
-941,10/18/2021,Sauce - Vodka Blush,12.1,1
-942,10/20/2021,Pail With Metal Handle 16l White,12.5,3
-943,10/18/2021,Wine - Chianti Classica Docg,18.0,2
-944,10/24/2021,Marjoram - Fresh,9.4,5
-945,10/22/2021,Petite Baguette,17.3,3
-946,10/18/2021,Ecolab - Power Fusion,16.3,2
-947,10/20/2021,Wine - Sicilia Igt Nero Avola,14.4,4
-948,10/23/2021,Dragon Fruit,13.8,5
-949,10/20/2021,Wine - Balbach Riverside,3.6,3
-950,10/19/2021,Pears - Anjou,11.2,3
-951,10/22/2021,"Pepper - Chillies, Crushed",15.7,1
-952,10/21/2021,Bay Leaf Ground,18.3,2
-953,10/21/2021,Liquid Aminios Acid - Braggs,10.4,3
-954,10/22/2021,Scallops - Live In Shell,14.7,3
-955,10/22/2021,"Sparkling Wine - Rose, Freixenet",3.0,1
-956,10/18/2021,Pur Value,15.9,5
-957,10/20/2021,"Pepsi - Diet, 355 Ml",6.1,4
-958,10/19/2021,Nectarines,15.1,3
-959,10/20/2021,Paper - Brown Paper Mini Cups,13.3,5
-960,10/22/2021,Hersey Shakes,5.8,5
-961,10/21/2021,Island Oasis - Sweet And Sour Mix,11.4,4
-962,10/22/2021,"Orange - Canned, Mandarin",9.3,3
-963,10/20/2021,Pork Loin Bine - In Frenched,3.1,4
-964,10/18/2021,"Rum - Cream, Amarula",2.7,2
-965,10/21/2021,Ocean Spray - Ruby Red,19.4,4
-966,10/19/2021,Bagel - Everything Presliced,5.9,3
-967,10/21/2021,Soup - Cream Of Broccoli,8.8,4
-968,10/19/2021,Cookies Oatmeal Raisin,10.0,4
-969,10/19/2021,"Brownies - Two Bite, Chocolate",3.2,3
-970,10/20/2021,Tea - Herbal Sweet Dreams,9.9,1
-971,10/19/2021,Pickerel - Fillets,5.2,4
-972,10/23/2021,Plasticspoonblack,12.6,5
-973,10/19/2021,Chickensplit Half,8.7,1
-974,10/24/2021,"Ice - Clear, 300 Lb For Carving",11.5,5
-975,10/23/2021,"Quail - Whole, Boneless",6.8,4
-976,10/22/2021,Longos - Chicken Caeser Salad,9.4,2
-977,10/23/2021,Squid - Tubes / Tenticles 10/20,19.2,1
-978,10/24/2021,Muffin Mix - Oatmeal,4.7,1
-979,10/22/2021,Wine - Redchard Merritt,2.0,1
-980,10/18/2021,Vaccum Bag - 14x20,8.9,5
-981,10/23/2021,Beans - Wax,4.1,2
-982,10/20/2021,Dc - Frozen Momji,5.4,2
-983,10/23/2021,"Fish - Artic Char, Cold Smoked",1.3,1
-984,10/18/2021,Milk - Homo,12.5,1
-985,10/23/2021,"Flour - Bran, Red",10.5,4
-986,10/18/2021,"7up Diet, 355 Ml",9.6,2
-987,10/23/2021,Cheese - St. Andre,16.8,5
-988,10/18/2021,"Capon - Breast, Double, Wing On",6.7,4
-989,10/18/2021,"Pail - 15l White, With Handle",13.8,1
-990,10/24/2021,Muffin Mix - Banana Nut,15.4,1
-991,10/20/2021,Kiwi Gold Zespri,19.3,5
-992,10/24/2021,Lettuce - Frisee,7.5,4
-993,10/20/2021,Initation Crab Meat,3.7,4
-994,10/23/2021,Cup Translucent 9 Oz,3.1,2
-995,10/23/2021,Fondant - Icing,7.4,4
-996,10/24/2021,Sauce - Sesame Thai Dressing,7.9,4
-997,10/23/2021,"Nut - Hazelnut, Whole",2.6,3
-998,10/24/2021,Assorted Desserts,2.4,5
-999,10/23/2021,Kolrabi,10.8,2
-1000,10/18/2021,Red Cod Fillets - 225g,7.8,4
+1,1635033600000.0,Lettuce - Boston Bib - Organic,8.8,1
+2,1634774400000.0,Wine - Cave Springs Dry Riesling,10.2,3
+3,1634515200000.0,Cookie Dough - Peanut Butter,10.9,1
+4,1634601600000.0,Triple Sec - Mcguinness,14.2,5
+5,1634947200000.0,Beer - Sleemans Honey Brown,16.8,5
+6,1634515200000.0,Syrup - Kahlua Chocolate,8.1,5
+7,1634515200000.0,Cake - Cake Sheet Macaroon,18.0,3
+8,1634515200000.0,Cherries - Frozen,5.5,2
+9,1634860800000.0,Devonshire Cream,15.9,2
+10,1634860800000.0,Pur Source,7.9,3
+11,1634774400000.0,Leeks - Large,12.2,4
+12,1634515200000.0,Tea - Apple Green Tea,1.6,4
+13,1634688000000.0,Artichoke - Fresh,1.0,1
+14,1635033600000.0,Beets - Golden,2.6,2
+15,1634515200000.0,Oneshot Automatic Soap System,16.1,2
+16,1634601600000.0,Veal - Sweetbread,14.0,5
+17,1634774400000.0,Latex Rubber Gloves Size 9,13.0,3
+18,1635033600000.0,Trueblue - Blueberry 12x473ml,10.4,5
+19,1634860800000.0,Pea - Snow,13.1,1
+20,1634947200000.0,Pork - Side Ribs,14.4,3
+21,1634688000000.0,Ecolab - Ster Bac,18.7,3
+22,1634947200000.0,Lamb Shoulder Boneless Nz,18.3,5
+23,1634515200000.0,"Butter - Salted, Micro",17.6,1
+24,1634515200000.0,Appetizer - Chicken Satay,14.7,5
+25,1635033600000.0,Zucchini - Yellow,11.5,3
+26,1634774400000.0,Wine - Malbec Trapiche Reserve,5.6,3
+27,1634860800000.0,Nescafe - Frothy French Vanilla,12.9,3
+28,1634860800000.0,"Red Snapper - Fresh, Whole",14.5,1
+29,1634688000000.0,Beef - Diced,6.0,2
+30,1634774400000.0,Cookie Dough - Oatmeal Rasin,3.5,3
+31,1634688000000.0,Cake Slab,10.5,1
+32,1634515200000.0,Goulash Seasoning,8.3,3
+33,1634601600000.0,Anisette - Mcguiness,14.8,5
+34,1634601600000.0,Towel Dispenser,14.2,4
+35,1634947200000.0,Chips - Miss Vickies,19.3,5
+36,1634515200000.0,Bagelers - Cinn / Brown Sugar,4.5,4
+37,1634601600000.0,Beef - Short Loin,16.7,4
+38,1634601600000.0,Dried Cherries,8.1,4
+39,1634515200000.0,Appetizer - Shrimp Puff,18.5,1
+40,1634774400000.0,Extract - Almond,18.8,4
+41,1635033600000.0,Sauce - Oyster,3.8,1
+42,1634774400000.0,Container - Hngd Cll Blk 7x7x3,4.9,1
+43,1635033600000.0,Yoplait Drink,13.5,4
+44,1634601600000.0,Wine - Taylors Reserve,15.1,4
+45,1634688000000.0,Juice - Mango,14.8,1
+46,1634688000000.0,"Soup - Knorr, Chicken Noodle",3.7,5
+47,1634515200000.0,"Pepper - Paprika, Hungarian",14.3,1
+48,1635033600000.0,Yoghurt Tubes,3.4,1
+49,1634947200000.0,"Pork - Loin, Bone - In",8.9,3
+50,1634601600000.0,Oil - Peanut,6.4,4
+51,1634515200000.0,"Vermacelli - Sprinkles, Assorted",10.1,1
+52,1634688000000.0,Higashimaru Usukuchi Soy,10.3,5
+53,1634515200000.0,Sole - Iqf,8.2,1
+54,1634688000000.0,Wine - Black Tower Qr,19.5,2
+55,1634601600000.0,Beef - Top Butt,19.4,4
+56,1634774400000.0,"Placemat - Scallop, White",4.8,4
+57,1634515200000.0,Muffin Orange Individual,4.5,1
+58,1634601600000.0,"Beans - Turtle, Black, Dry",3.6,1
+59,1634860800000.0,Sea Bass - Whole,18.1,1
+60,1634688000000.0,Extract - Lemon,16.5,4
+61,1634515200000.0,"Red Snapper - Fresh, Whole",11.6,3
+62,1634515200000.0,Turkey Tenderloin Frozen,9.5,1
+63,1634515200000.0,Pork - Back Ribs,11.6,3
+64,1634601600000.0,"Bread - Roll, Italian",6.0,1
+65,1635033600000.0,"Lamb - Whole, Frozen",11.0,2
+66,1634601600000.0,Melon - Cantaloupe,7.2,1
+67,1634774400000.0,"Lamb - Pieces, Diced",15.8,4
+68,1635033600000.0,Cherries - Fresh,6.7,2
+69,1634947200000.0,Gelatine Leaves - Bulk,15.6,5
+70,1634601600000.0,Monkfish - Fresh,19.4,1
+71,1634947200000.0,Beef - Short Loin,17.0,1
+72,1634515200000.0,Chinese Lemon Pork,3.3,2
+73,1635033600000.0,Compound - Rum,10.7,1
+74,1634515200000.0,Oven Mitt - 13 Inch,19.0,1
+75,1634860800000.0,Bread - White Mini Epi,5.7,3
+76,1634860800000.0,Appetizer - Seafood Assortment,5.3,2
+77,1634688000000.0,The Pop Shoppe - Cream Soda,11.1,3
+78,1634774400000.0,Soup - Campbellschix Stew,2.9,1
+79,1634688000000.0,Higashimaru Usukuchi Soy,3.3,2
+80,1634947200000.0,Rice - Jasmine Sented,12.7,5
+81,1634860800000.0,Sardines,16.0,4
+82,1634860800000.0,Dried Cherries,13.1,5
+83,1634947200000.0,Pepper - Orange,1.4,5
+84,1634515200000.0,"Juice - Clamato, 341 Ml",3.0,3
+85,1635033600000.0,Soap - Mr.clean Floor Soap,12.4,3
+86,1635033600000.0,Table Cloth 62x120 White,13.3,1
+87,1635033600000.0,Bread - Rye,8.4,5
+88,1635033600000.0,Lettuce - Baby Salad Greens,19.9,2
+89,1634860800000.0,Pie Pecan,6.9,4
+90,1634774400000.0,"Oregano - Dry, Rubbed",17.1,4
+91,1634601600000.0,Wine - Tio Pepe Sherry Fino,10.5,1
+92,1634860800000.0,Wine - Riesling Alsace Ac 2001,3.6,1
+93,1635033600000.0,Yoghurt Tubes,18.7,2
+94,1634774400000.0,Longos - Lasagna Beef,7.9,1
+95,1634515200000.0,Coriander - Seed,18.8,3
+96,1634515200000.0,Foil - Round Foil,7.7,4
+97,1634688000000.0,Pepperoni Slices,11.2,5
+98,1634515200000.0,Cheese - Fontina,14.0,4
+99,1634688000000.0,"Pasta - Fett Alfredo, Single Serve",2.7,2
+100,1634515200000.0,Rice - Wild,3.1,2
+101,1634601600000.0,Ham - Cooked Italian,14.2,1
+102,1634860800000.0,"Placemat - Scallop, White",9.5,3
+103,1634947200000.0,Bread - Kimel Stick Poly,3.5,2
+104,1634688000000.0,"Salmon - Atlantic, Fresh, Whole",12.2,3
+105,1634860800000.0,Tea - Herbal Sweet Dreams,7.7,1
+106,1634601600000.0,Horseradish - Prepared,18.5,4
+107,1634601600000.0,"Quail - Whole, Bone - In",5.9,4
+108,1634515200000.0,Soup - Verve - Chipotle Chicken,9.7,1
+109,1635033600000.0,Crackers - Melba Toast,19.0,2
+110,1634860800000.0,"Mushrooms - Black, Dried",15.8,2
+111,1634860800000.0,"Pasta - Shells, Medium, Dry",4.7,5
+112,1634774400000.0,Crackers - Melba Toast,7.6,4
+113,1634774400000.0,"Octopus - Baby, Cleaned",2.4,4
+114,1634774400000.0,Coffee - Egg Nog Capuccino,9.5,1
+115,1634774400000.0,Sesame Seed,11.5,3
+116,1634774400000.0,"Soup - Knorr, Country Bean",11.0,2
+117,1634515200000.0,"Brandy - Orange, Mc Guiness",7.5,5
+118,1634947200000.0,"Water, Tap",13.9,1
+119,1634601600000.0,Wine - Magnotta - Cab Sauv,9.7,3
+120,1634774400000.0,Wine - Cava Aria Estate Brut,17.0,5
+121,1634947200000.0,"Bread - Rolls, Corn",19.7,2
+122,1634688000000.0,Wine - Jackson Triggs Okonagan,14.2,3
+123,1634774400000.0,Cocoa Feuilletine,12.3,4
+124,1634601600000.0,Ham - Proscuitto,2.1,3
+125,1634601600000.0,Muffin Mix - Carrot,15.4,1
+126,1634860800000.0,Clam - Cherrystone,19.3,3
+127,1634860800000.0,Straws - Cocktale,15.3,1
+128,1634601600000.0,Pork - Belly Fresh,1.5,3
+129,1634688000000.0,Fuji Apples,15.1,1
+130,1634601600000.0,Cassis,18.5,5
+131,1634774400000.0,Bread - Rye,13.6,4
+132,1634860800000.0,Vanilla Beans,8.7,1
+133,1634515200000.0,Pear - Prickly,19.0,5
+134,1634515200000.0,Beer - Rickards Red,5.5,4
+135,1635033600000.0,Veal - Provimi Inside,1.5,4
+136,1634860800000.0,"Vermouth - White, Cinzano",14.5,3
+137,1634774400000.0,Flour - Fast / Rapid,13.0,1
+138,1635033600000.0,Apple - Granny Smith,2.1,3
+139,1634860800000.0,Sausage - Blood Pudding,17.0,5
+140,1634947200000.0,Beans - French,6.3,1
+141,1634688000000.0,Onions - Vidalia,3.0,2
+142,1635033600000.0,Cheese Cloth,15.4,1
+143,1634515200000.0,Boogies,3.0,3
+144,1634947200000.0,Wine - Cotes Du Rhone,1.3,1
+145,1634774400000.0,Lamb Leg - Bone - In Nz,10.4,1
+146,1634860800000.0,"Nut - Cashews, Whole, Raw",16.2,4
+147,1634515200000.0,"Mop Head - Cotton, 24 Oz",12.4,2
+148,1635033600000.0,Cake - Box Window 10x10x2.5,6.7,5
+149,1634601600000.0,Corn - Mini,5.4,3
+150,1634774400000.0,"Cheese - Cheddar, Mild",7.3,5
+151,1634947200000.0,Amarula Cream,3.7,4
+152,1634774400000.0,Island Oasis - Magarita Mix,5.0,3
+153,1634688000000.0,"Lamb - Leg, Bone In",7.2,1
+154,1635033600000.0,Jameson - Irish Whiskey,19.3,1
+155,1634860800000.0,Pastry - Carrot Muffin - Mini,12.6,1
+156,1634774400000.0,"Juice - V8, Tomato",12.6,1
+157,1634601600000.0,"Bar Mix - Pina Colada, 355 Ml",9.2,3
+158,1634947200000.0,Wine - Pinot Noir Latour,16.7,1
+159,1634774400000.0,Buffalo - Tenderloin,9.2,2
+160,1634688000000.0,Crackers - Trio,16.7,3
+161,1634688000000.0,Cookie Dough - Double,4.1,2
+162,1634947200000.0,Oven Mitts 17 Inch,18.6,5
+163,1634774400000.0,Ice Cream - Vanilla,18.8,4
+164,1634774400000.0,Cleaner - Lime Away,9.4,3
+165,1634774400000.0,Bread - Onion Focaccia,6.3,4
+166,1634774400000.0,"Soup - Campbells, Cream Of",17.5,5
+167,1635033600000.0,Tobasco Sauce,9.1,2
+168,1634774400000.0,Beef Tenderloin Aaa,3.9,1
+169,1634947200000.0,Coffee - Irish Cream,4.7,5
+170,1634947200000.0,Sauce - Cranberry,12.4,4
+171,1635033600000.0,"Cheese - Cheddar, Old White",14.6,2
+172,1634515200000.0,Wine - Sake,7.2,2
+173,1635033600000.0,Cheese - Bocconcini,1.5,1
+174,1634688000000.0,Coffee Beans - Chocolate,7.4,3
+175,1634601600000.0,Sauce - Hp,19.1,2
+176,1634688000000.0,Dr. Pepper - 355ml,11.1,3
+177,1634774400000.0,"Mushroom - Porcini, Dry",11.4,4
+178,1634601600000.0,Steampan - Foil,17.7,4
+179,1634774400000.0,"Wine - Magnotta, Merlot Sr Vqa",16.4,1
+180,1635033600000.0,"Pepper - Black, Whole",1.3,2
+181,1634601600000.0,Chinese Lemon Pork,3.3,1
+182,1634688000000.0,Rappini - Andy Boy,1.6,5
+183,1634688000000.0,Tarragon - Fresh,1.6,1
+184,1634774400000.0,"Pineapple - Canned, Rings",18.1,4
+185,1634688000000.0,Water Chestnut - Canned,12.3,1
+186,1634860800000.0,Wine - Black Tower Qr,15.9,2
+187,1634947200000.0,"Wine - White, Pinot Grigio",17.2,2
+188,1634774400000.0,Allspice - Jamaican,4.3,2
+189,1634601600000.0,"Pasta - Elbows, Macaroni, Dry",14.8,2
+190,1634774400000.0,"Cheese - Boursin, Garlic / Herbs",12.6,4
+191,1634860800000.0,"Chicken - Wings, Tip Off",9.5,5
+192,1634601600000.0,Coffee - Egg Nog Capuccino,13.2,3
+193,1634515200000.0,"Sauce - White, Mix",14.4,3
+194,1634947200000.0,Huck Towels White,5.5,3
+195,1634601600000.0,Wine - Barossa Valley Estate,12.4,2
+196,1634688000000.0,Yoplait - Strawbrasp Peac,2.1,2
+197,1634688000000.0,"Beer - Alexander Kieths, Pale Ale",11.2,2
+198,1634860800000.0,Frangelico,10.5,2
+199,1634860800000.0,Cocoa Feuilletine,13.0,3
+200,1634601600000.0,Celery Root,11.6,1
+201,1634688000000.0,Dill Weed - Fresh,14.5,2
+202,1634515200000.0,Scallops 60/80 Iqf,6.7,5
+203,1634688000000.0,Honey - Comb,6.3,2
+204,1634860800000.0,"Cookies - Oreo, 4 Pack",10.7,3
+205,1634860800000.0,"Syrup - Monin, Swiss Choclate",12.6,4
+206,1635033600000.0,"Tortillas - Flour, 10",11.5,5
+207,1634860800000.0,"Rosemary - Primerba, Paste",19.4,4
+208,1634515200000.0,Extract - Lemon,17.5,3
+209,1634515200000.0,Beer - Steamwhistle,8.0,2
+210,1634774400000.0,"Olives - Green, Pitted",16.5,3
+211,1634774400000.0,Basil - Fresh,14.8,5
+212,1634860800000.0,Steel Wool,10.8,4
+213,1634860800000.0,Beer - True North Lager,18.3,2
+214,1634860800000.0,Gatorade - Lemon Lime,11.3,2
+215,1634601600000.0,Daikon Radish,9.0,3
+216,1635033600000.0,Bread - White Epi Baguette,12.7,5
+217,1634601600000.0,Bread - Flat Bread,15.5,5
+218,1634947200000.0,Lemon Pepper,18.0,4
+219,1634688000000.0,"Salt - Rock, Course",11.3,2
+220,1634774400000.0,Quinoa,6.8,3
+221,1634688000000.0,Sprouts - China Rose,7.3,3
+222,1635033600000.0,"Lemonade - Natural, 591 Ml",16.3,2
+223,1635033600000.0,Gatorade - Xfactor Berry,14.6,5
+224,1634774400000.0,Cheese - Camembert,14.2,2
+225,1635033600000.0,Ecolab - Mikroklene 4/4 L,15.4,2
+226,1634947200000.0,Pastry - Banana Muffin - Mini,6.1,2
+227,1634947200000.0,Sprite - 355 Ml,17.5,3
+228,1634688000000.0,Cheese - Pont Couvert,5.4,4
+229,1634515200000.0,Cake - Mini Potato Pancake,13.3,5
+230,1634947200000.0,Pastrami,15.9,4
+231,1635033600000.0,Wine - Redchard Merritt,10.4,4
+232,1634515200000.0,"Mushroom - Enoki, Dry",10.9,5
+233,1634860800000.0,Pepper Squash,10.4,3
+234,1634601600000.0,"Fish - Base, Bouillion",19.5,5
+235,1634601600000.0,Lighter - Bbq,3.9,4
+236,1634860800000.0,Mudslide,14.9,5
+237,1635033600000.0,Sauce - Balsamic Viniagrette,3.6,5
+238,1634860800000.0,Calvados - Boulard,10.2,1
+239,1634947200000.0,Creme De Menthe Green,9.4,2
+240,1634601600000.0,Broom - Angled,2.8,5
+241,1634688000000.0,Flour - Strong Pizza,1.3,1
+242,1634947200000.0,Table Cloth 54x54 Colour,1.9,2
+243,1634860800000.0,"Soup - Beef Conomme, Dry",17.4,1
+244,1634860800000.0,Tea - Orange Pekoe,9.8,4
+245,1634688000000.0,Muffin - Banana Nut Individual,4.2,4
+246,1634947200000.0,Chocolate Bar - Smarties,7.5,5
+247,1635033600000.0,Cactus Pads,3.5,3
+248,1634774400000.0,Cheese - Sheep Milk,12.2,1
+249,1634860800000.0,"Turkey - Breast, Smoked",6.8,5
+250,1634515200000.0,Garbag Bags - Black,12.1,5
+251,1634860800000.0,"Wine - Sherry Dry Sack, William",17.7,1
+252,1634601600000.0,Grapefruit - White,11.3,2
+253,1635033600000.0,Sugar - Splenda Sweetener,17.2,2
+254,1634947200000.0,"Pasta - Spaghetti, Dry",19.8,3
+255,1635033600000.0,Sobe - Orange Carrot,14.0,2
+256,1634515200000.0,Longos - Assorted Sandwich,15.9,2
+257,1634688000000.0,"Juice - Pineapple, 341 Ml",11.8,1
+258,1634688000000.0,Beer - Pilsner Urquell,5.3,2
+259,1634774400000.0,Flour - Whole Wheat,6.6,2
+260,1634515200000.0,Pepper - Gypsy Pepper,6.1,4
+261,1634688000000.0,"Wine - White, Ej",12.9,2
+262,1634860800000.0,Pie Pecan,11.2,5
+263,1634774400000.0,"Tomatoes - Plum, Canned",19.7,4
+264,1634515200000.0,Cranberry Foccacia,2.4,3
+265,1634601600000.0,Ice Cream - Fudge Bars,1.5,4
+266,1634774400000.0,Apple - Granny Smith,5.8,5
+267,1634774400000.0,Ice Cream Bar - Oreo Sandwich,16.4,3
+268,1635033600000.0,Pork - Smoked Back Bacon,12.9,5
+269,1634774400000.0,Coffee Cup 12oz 5342cd,1.5,4
+270,1635033600000.0,"Cheese - Brie, Triple Creme",3.9,1
+271,1634688000000.0,"Basil - Primerba, Paste",12.9,2
+272,1634515200000.0,"Syrup - Monin, Irish Cream",12.1,1
+273,1634860800000.0,Tomatoes - Yellow Hot House,7.1,4
+274,1634860800000.0,Corn - On The Cob,5.5,1
+275,1634688000000.0,Anisette - Mcguiness,1.5,1
+276,1635033600000.0,Spice - Montreal Steak Spice,19.9,4
+277,1634774400000.0,Foam Espresso Cup Plain White,9.9,5
+278,1635033600000.0,Chocolate - Dark,6.5,5
+279,1634947200000.0,Sauce - Cranberry,4.5,3
+280,1634947200000.0,Wine - Delicato Merlot,7.3,4
+281,1634947200000.0,Beer - Tetleys,3.7,5
+282,1634601600000.0,"Coffee - Beans, Whole",4.7,5
+283,1634947200000.0,Fruit Mix - Light,11.1,2
+284,1635033600000.0,Wine - Chardonnay South,8.8,5
+285,1634515200000.0,Wine - Spumante Bambino White,1.6,2
+286,1634947200000.0,Pepper - Roasted Red,11.1,3
+287,1634860800000.0,"Bread - Pita, Mini",12.7,1
+288,1634601600000.0,Kiwi Gold Zespri,9.2,2
+289,1634774400000.0,"Soup - Campbells, Spinach Crm",14.7,2
+290,1634774400000.0,Syrup - Monin - Granny Smith,9.1,4
+291,1635033600000.0,Bread Sour Rolls,6.8,4
+292,1634515200000.0,Sponge Cake Mix - Vanilla,6.6,2
+293,1634688000000.0,Soup Campbells - Tomato Bisque,7.6,3
+294,1634947200000.0,Nutmeg - Ground,5.4,4
+295,1634860800000.0,"Cheese - Cheddar, Medium",3.5,1
+296,1634860800000.0,Corn Syrup,16.3,2
+297,1635033600000.0,Plaintain,10.0,3
+298,1634947200000.0,Cake Sheet Combo Party Pack,16.2,5
+299,1634860800000.0,Pear - Asian,12.9,2
+300,1634688000000.0,Cookie Choc,6.1,2
+301,1634601600000.0,"Soup - Beef, Base Mix",10.3,5
+302,1634947200000.0,Cookie Dough - Chunky,17.3,3
+303,1634947200000.0,Tuna - Bluefin,3.3,3
+304,1634860800000.0,Cookies Almond Hazelnut,8.5,3
+305,1634601600000.0,Gelatine Leaves - Envelopes,11.5,5
+306,1634860800000.0,Bread - Multigrain,10.1,2
+307,1634860800000.0,Glass Clear 8 Oz,1.2,2
+308,1634688000000.0,Rosemary - Dry,13.3,5
+309,1634947200000.0,Sauce - Alfredo,13.4,3
+310,1634688000000.0,"Pepper - White, Ground",5.2,3
+311,1634860800000.0,Soup Campbells Beef With Veg,8.5,4
+312,1634601600000.0,Pasta - Fusili Tri - Coloured,1.0,5
+313,1634947200000.0,"Cookies - Oreo, 4 Pack",16.0,1
+314,1634947200000.0,Veal - Liver,15.8,5
+315,1634774400000.0,"Wine - Sherry Dry Sack, William",16.9,1
+316,1634774400000.0,Oyster - In Shell,3.7,4
+317,1634688000000.0,Chicken - Leg / Back Attach,17.4,1
+318,1634860800000.0,Apron,16.1,2
+319,1635033600000.0,Pork - Ham Hocks - Smoked,18.6,3
+320,1634601600000.0,Pomello,15.5,4
+321,1634515200000.0,Crab - Imitation Flakes,7.8,3
+322,1634774400000.0,Veal - Leg,9.8,4
+323,1634947200000.0,Nacho Chips,15.0,5
+324,1635033600000.0,Pimento - Canned,14.3,5
+325,1634860800000.0,Beets - Golden,8.2,3
+326,1634774400000.0,Galliano,1.2,2
+327,1634860800000.0,Ham - Black Forest,10.2,4
+328,1634688000000.0,Sugar - Individual Portions,18.2,1
+329,1634947200000.0,Cup - Paper 10oz 92959,15.6,5
+330,1634774400000.0,Roe - Flying Fish,8.5,1
+331,1634515200000.0,Cream - 35%,10.2,5
+332,1635033600000.0,Bagel - Plain,5.9,1
+333,1634947200000.0,Aromat Spice / Seasoning,18.3,2
+334,1634860800000.0,Cheese - Parmigiano Reggiano,3.3,2
+335,1634947200000.0,Fruit Mix - Light,2.1,3
+336,1634688000000.0,Crackers - Soda / Saltins,1.6,3
+337,1634947200000.0,"Wine - Red, Pinot Noir, Chateau",19.4,1
+338,1634947200000.0,Soap - Pine Sol Floor Cleaner,11.8,1
+339,1634515200000.0,Lamb Tenderloin Nz Fr,16.9,4
+340,1634515200000.0,Truffle Cups - Brown,19.4,1
+341,1634601600000.0,Soup - Campbells Beef Strogonoff,15.5,4
+342,1635033600000.0,Scotch - Queen Anne,12.8,3
+343,1635033600000.0,Chips Potato Salt Vinegar 43g,11.0,2
+344,1634947200000.0,Beef - Kobe Striploin,17.5,4
+345,1634515200000.0,"Bread - Sticks, Thin, Plain",16.9,2
+346,1634688000000.0,"Chicken - Leg, Fresh",17.7,4
+347,1634774400000.0,Flour Dark Rye,17.0,3
+348,1634515200000.0,Bread - Crusty Italian Poly,15.4,4
+349,1634515200000.0,Wine - Peller Estates Late,18.4,4
+350,1634860800000.0,Quiche Assorted,18.7,2
+351,1634688000000.0,Appetizer - Mushroom Tart,16.8,4
+352,1634860800000.0,Pork - Caul Fat,2.4,2
+353,1634947200000.0,Kellogs Cereal In A Cup,17.0,2
+354,1634601600000.0,Wine - Domaine Boyar Royal,1.8,2
+355,1634947200000.0,Pails With Lids,13.7,3
+356,1634860800000.0,"Pork - Bacon,back Peameal",11.9,5
+357,1635033600000.0,Bar Nature Valley,17.5,2
+358,1634688000000.0,Dikon,2.3,3
+359,1634860800000.0,Rice Wine - Aji Mirin,16.9,2
+360,1634515200000.0,"Lettuce - Romaine, Heart",2.1,3
+361,1634515200000.0,Flower - Commercial Bronze,1.0,1
+362,1635033600000.0,"Pork - Loin, Boneless",2.6,5
+363,1634947200000.0,Cheese - Feta,11.6,1
+364,1634774400000.0,Pastry - Plain Baked Croissant,17.3,3
+365,1634947200000.0,Cheese - Cheddarsliced,3.6,2
+366,1634774400000.0,Bread Cranberry Foccacia,1.9,5
+367,1634947200000.0,"Cod - Salted, Boneless",1.4,1
+368,1634947200000.0,Lamb - Bones,15.7,4
+369,1634947200000.0,Lettuce - Lambs Mash,9.2,3
+370,1634515200000.0,Beer - Sleeman Fine Porter,2.4,4
+371,1634860800000.0,Soup - Campbells Beef Stew,2.5,5
+372,1634774400000.0,Jello - Assorted,14.5,5
+373,1634774400000.0,Cookie Dough - Peanut Butter,5.3,4
+374,1634860800000.0,Shrimp - 150 - 250,2.4,4
+375,1634601600000.0,Appetizer - Escargot Puff,17.1,5
+376,1634601600000.0,"Ranchero - Primerba, Paste",11.3,5
+377,1634774400000.0,Soup - Tomato Mush. Florentine,2.5,3
+378,1634601600000.0,"Corn - Cream, Canned",13.4,2
+379,1634774400000.0,Corn Meal,13.3,4
+380,1634688000000.0,Sun - Dried Tomatoes,18.4,3
+381,1634947200000.0,"Cheese - Cheddar, Medium",19.3,3
+382,1634601600000.0,"Asparagus - Green, Fresh",4.2,3
+383,1635033600000.0,Cheese - Brie,19.7,1
+384,1634860800000.0,Pasta - Ravioli,8.9,3
+385,1635033600000.0,Sugar - Icing,7.0,3
+386,1634688000000.0,Ginsing - Fresh,18.4,3
+387,1634601600000.0,"Wine - White, Mosel Gold",3.1,5
+388,1635033600000.0,Wheat - Soft Kernal Of Wheat,2.0,5
+389,1634947200000.0,Persimmons,9.5,4
+390,1634947200000.0,Glaze - Clear,13.5,4
+391,1634860800000.0,Wild Boar - Tenderloin,1.9,4
+392,1634515200000.0,Chinese Foods - Plain Fried Rice,18.4,2
+393,1634774400000.0,Crab - Meat Combo,7.2,4
+394,1634515200000.0,Curry Paste - Madras,6.9,1
+395,1634688000000.0,"Lid - Translucent, 3.5 And 6 Oz",5.1,5
+396,1634860800000.0,"Pepsi - Diet, 355 Ml",11.9,5
+397,1634947200000.0,Cornflakes,18.9,2
+398,1634947200000.0,Mushroom - White Button,13.6,1
+399,1634515200000.0,Dates,2.3,2
+400,1634947200000.0,Wine - Pinot Grigio Collavini,6.8,2
+401,1634860800000.0,Shrimp - Black Tiger 6 - 8,19.5,2
+402,1635033600000.0,Chicken - Base,15.3,3
+403,1634688000000.0,Sandwich Wrap,15.1,4
+404,1634774400000.0,Lid - 0090 Clear,3.4,1
+405,1634688000000.0,Sunflower Seed Raw,9.5,2
+406,1634688000000.0,Pastry - Carrot Muffin - Mini,4.6,1
+407,1634688000000.0,Nescafe - Frothy French Vanilla,7.3,5
+408,1634860800000.0,Muffin Mix - Morning Glory,7.4,2
+409,1634860800000.0,Muffin - Bran Ind Wrpd,14.8,2
+410,1635033600000.0,Piping - Bags Quizna,13.2,2
+411,1634774400000.0,Pepper - Green,5.8,3
+412,1634601600000.0,"Rum - Coconut, Malibu",2.9,2
+413,1634601600000.0,Bread - Burger,16.3,5
+414,1634947200000.0,Bread - English Muffin,13.0,3
+415,1634688000000.0,"Wine - Sherry Dry Sack, William",7.8,4
+416,1634947200000.0,"Melon - Watermelon, Seedless",6.7,2
+417,1634774400000.0,Scallops - Live In Shell,6.4,5
+418,1634515200000.0,Beef - Ground Lean Fresh,19.5,1
+419,1634688000000.0,Pork - Shoulder,8.4,4
+420,1634601600000.0,Fudge - Chocolate Fudge,14.0,4
+421,1635033600000.0,Muffin Batt - Carrot Spice,4.0,2
+422,1635033600000.0,Chips - Miss Vickies,13.5,2
+423,1634774400000.0,"Syrup - Golden, Lyles",7.5,2
+424,1634515200000.0,Beer - Blue,10.7,3
+425,1634688000000.0,Trueblue - Blueberry Cranberry,16.1,1
+426,1634774400000.0,Energy Drink Red Bull,5.1,3
+427,1634774400000.0,Thermometer Digital,8.4,3
+428,1634515200000.0,Godiva White Chocolate,4.7,1
+429,1634860800000.0,Bread Roll Foccacia,9.4,2
+430,1635033600000.0,Ecolab Crystal Fusion,7.6,5
+431,1634860800000.0,Carrots - Mini Red Organic,9.2,5
+432,1634947200000.0,"Beans - Black Bean, Dry",2.0,3
+433,1634601600000.0,Muffin - Mix - Mango Sour Cherry,11.1,5
+434,1634947200000.0,Taro Root,10.8,5
+435,1634688000000.0,Quail - Jumbo Boneless,14.8,4
+436,1634947200000.0,Plasticforkblack,18.7,4
+437,1634947200000.0,"Bread - Roll, Italian",9.5,3
+438,1634774400000.0,V8 Splash Strawberry Kiwi,6.0,5
+439,1634688000000.0,Appetizer - Mango Chevre,14.3,3
+440,1634688000000.0,Tuna - Fresh,5.8,5
+441,1634860800000.0,"Tart Shells - Sweet, 2",15.9,4
+442,1634947200000.0,Coffee - Ristretto Coffee Capsule,5.3,4
+443,1634515200000.0,"Lamb - Racks, Frenched",16.6,2
+444,1634860800000.0,Wine - Manischewitz Concord,6.0,5
+445,1635033600000.0,Cookie - Dough Variety,2.2,5
+446,1634860800000.0,"Soup - Knorr, Country Bean",9.0,4
+447,1634515200000.0,Juice - Orangina,6.0,5
+448,1634947200000.0,Shrimp - Black Tiger 16/20,3.2,5
+449,1634774400000.0,Cranberries - Frozen,2.9,2
+450,1634774400000.0,Grapes - Green,3.1,2
+451,1634774400000.0,Rabbit - Whole,4.6,3
+452,1634947200000.0,Praline Paste,4.2,3
+453,1634515200000.0,Wine - Savigny - Les - Beaune,5.9,2
+454,1634515200000.0,Appetizer - Escargot Puff,7.7,4
+455,1634774400000.0,Wiberg Super Cure,9.4,4
+456,1634688000000.0,Oil - Pumpkinseed,17.5,2
+457,1634515200000.0,Potatoes - Parissienne,5.2,3
+458,1634601600000.0,Croissants Thaw And Serve,9.7,3
+459,1635033600000.0,Compound - Passion Fruit,4.2,5
+460,1634860800000.0,"Quail - Eggs, Fresh",17.7,4
+461,1635033600000.0,Cheese - Cheddarsliced,11.4,3
+462,1634860800000.0,Ice Cream - Strawberry,3.9,4
+463,1634601600000.0,Grouper - Fresh,9.0,3
+464,1635033600000.0,Creme De Menth - White,10.9,3
+465,1634688000000.0,Bread Bowl Plain,15.8,3
+466,1634688000000.0,Wine - Alsace Gewurztraminer,8.0,2
+467,1634601600000.0,Broom - Corn,15.4,2
+468,1634860800000.0,Bread Base - Italian,18.1,3
+469,1634860800000.0,Blueberries - Frozen,4.1,3
+470,1634688000000.0,"Vinegar - Balsamic, White",14.7,3
+471,1634601600000.0,Pineapple - Golden,8.9,1
+472,1634601600000.0,Dr. Pepper - 355ml,13.4,4
+473,1634947200000.0,Cookie Dough - Peanut Butter,16.4,5
+474,1634688000000.0,Soup - Campbellschix Stew,6.1,2
+475,1634774400000.0,Bread Fig And Almond,6.2,3
+476,1635033600000.0,"Coke - Diet, 355 Ml",6.4,4
+477,1634601600000.0,Container Clear 8 Oz,3.6,5
+478,1634947200000.0,Wine - Periguita Fonseca,1.2,3
+479,1634860800000.0,Dasheen,17.3,5
+480,1634515200000.0,Monkfish - Fresh,1.8,2
+481,1635033600000.0,Asparagus - Frozen,18.5,5
+482,1634774400000.0,Cheese - Augre Des Champs,16.6,3
+483,1634860800000.0,Rice - Long Grain,10.2,2
+484,1634601600000.0,Nougat - Paste / Cream,10.9,5
+485,1634947200000.0,Cheese - St. Andre,6.0,1
+486,1634860800000.0,Corn Shoots,5.1,1
+487,1634688000000.0,Sterno - Chafing Dish Fuel,12.4,3
+488,1634515200000.0,Flavouring - Raspberry,3.6,4
+489,1634947200000.0,Pepper Squash,5.3,1
+490,1634947200000.0,Sugar - Splenda Sweetener,5.0,3
+491,1634860800000.0,Apron,2.3,4
+492,1634947200000.0,Appetizer - Escargot Puff,8.2,4
+493,1634515200000.0,Soup - Cream Of Broccoli,7.4,4
+494,1634860800000.0,Sponge Cake Mix - Vanilla,5.3,3
+495,1634947200000.0,Table Cloth 53x69 White,7.8,4
+496,1634860800000.0,Beef - Top Sirloin - Aaa,8.2,1
+497,1634688000000.0,"Wine - White, Ej",5.9,2
+498,1635033600000.0,Bread - Malt,8.8,2
+499,1634860800000.0,Tea - Camomele,9.4,4
+500,1634947200000.0,Sauce - Salsa,10.7,4
+501,1634601600000.0,Island Oasis - Cappucino Mix,10.1,5
+502,1634947200000.0,Pasta - Ravioli,4.0,1
+503,1635033600000.0,Mangostein,12.7,5
+504,1634860800000.0,Bar - Granola Trail Mix Fruit Nut,16.7,5
+505,1634688000000.0,The Pop Shoppe - Root Beer,13.2,4
+506,1635033600000.0,Vinegar - Raspberry,3.0,4
+507,1634860800000.0,Clam - Cherrystone,12.0,5
+508,1634947200000.0,Vinegar - Tarragon,12.3,3
+509,1634947200000.0,Wine - Zonnebloem Pinotage,3.6,5
+510,1634601600000.0,Ham - Cooked,5.9,5
+511,1634774400000.0,Dried Figs,1.8,5
+512,1634688000000.0,"Bread - Crumbs, Bulk",17.6,2
+513,1634774400000.0,Soup - Campbells - Tomato,4.6,1
+514,1634947200000.0,Ham - Cooked,19.7,2
+515,1634860800000.0,Wine - Pinot Noir Mondavi Coastal,10.3,3
+516,1634860800000.0,Liquid Aminios Acid - Braggs,15.8,1
+517,1634601600000.0,"Wine - White, Mosel Gold",8.1,5
+518,1634774400000.0,"Olives - Green, Pitted",12.7,2
+519,1634515200000.0,Thyme - Dried,16.8,1
+520,1634601600000.0,Pants Custom Dry Clean,5.0,4
+521,1634860800000.0,Tia Maria,16.6,1
+522,1634774400000.0,Lime Cordial - Roses,18.6,4
+523,1634774400000.0,"Oregano - Dry, Rubbed",19.3,1
+524,1634515200000.0,Carrots - Jumbo,3.5,1
+525,1634515200000.0,Turkey - Ground. Lean,9.4,3
+526,1635033600000.0,Venison - Striploin,2.6,1
+527,1634947200000.0,"Chocolate - Semi Sweet, Calets",1.0,1
+528,1634947200000.0,"Wine - White, Riesling, Henry Of",6.8,5
+529,1634774400000.0,Pike - Frozen Fillet,16.4,4
+530,1634947200000.0,Water - Evian 355 Ml,5.0,1
+531,1635033600000.0,"Chocolate - Pistoles, White",12.8,4
+532,1634774400000.0,Beef - Bresaola,1.4,5
+533,1634860800000.0,Tomato - Green,18.4,2
+534,1634688000000.0,Bread - Italian Sesame Poly,7.5,5
+535,1635033600000.0,Cream Of Tartar,9.5,3
+536,1634515200000.0,"Tart Shells - Savory, 4",4.1,2
+537,1634947200000.0,Veal - Insides Provini,18.4,5
+538,1634688000000.0,Aspic - Clear,8.3,1
+539,1634774400000.0,Mace,8.3,5
+540,1634774400000.0,"Veal - Chops, Split, Frenched",3.2,1
+541,1634774400000.0,Potato - Sweet,19.4,1
+542,1634688000000.0,"Pail - 4l White, With Handle",2.2,1
+543,1634860800000.0,Plasticforkblack,19.7,3
+544,1635033600000.0,Bagel - Plain,3.2,1
+545,1635033600000.0,Paste - Black Olive,12.7,2
+546,1634688000000.0,Bread - Raisin Walnut Pull,15.4,4
+547,1634860800000.0,Mushroom - King Eryingii,3.4,4
+548,1634947200000.0,"Lettuce - Romaine, Heart",4.2,1
+549,1634688000000.0,Green Tea Refresher,5.3,3
+550,1634515200000.0,Ostrich - Fan Fillet,13.7,2
+551,1634601600000.0,Mace Ground,16.5,3
+552,1634601600000.0,Savory,15.8,1
+553,1634947200000.0,Vaccum Bag - 14x20,5.7,2
+554,1634515200000.0,"Sauce - Apple, Unsweetened",17.3,4
+555,1634947200000.0,Cheese - Bakers Cream Cheese,19.8,2
+556,1634601600000.0,"Pasta - Elbows, Macaroni, Dry",3.0,1
+557,1635033600000.0,Wine - Ej Gallo Sierra Valley,13.0,5
+558,1634860800000.0,Bread - Ciabatta Buns,16.0,4
+559,1634860800000.0,Ecolab - Hand Soap Form Antibac,15.0,1
+560,1634774400000.0,"Lamb - Pieces, Diced",16.8,4
+561,1634601600000.0,Vinegar - Raspberry,7.1,5
+562,1634601600000.0,"Wine - Red, Lurton Merlot De",18.7,1
+563,1634860800000.0,Vodka - Moskovskaya,1.5,2
+564,1634947200000.0,Melon - Watermelon Yellow,18.6,5
+565,1634601600000.0,Shark - Loin,10.3,1
+566,1634774400000.0,"Jam - Blackberry, 20 Ml Jar",17.7,1
+567,1635033600000.0,"Stock - Beef, White",18.9,2
+568,1634601600000.0,Grand Marnier,15.5,3
+569,1634860800000.0,Cloves - Ground,15.5,1
+570,1634688000000.0,Tamarillo,6.0,3
+571,1634601600000.0,Bay Leaf,18.7,5
+572,1635033600000.0,Beans - Fine,3.9,3
+573,1634947200000.0,Pork - Kidney,8.7,2
+574,1634860800000.0,Tuna - Salad Premix,16.1,5
+575,1634947200000.0,Lighter - Bbq,12.3,1
+576,1634515200000.0,Arizona - Green Tea,13.8,5
+577,1634515200000.0,Lamb Rack Frenched Australian,4.5,4
+578,1634601600000.0,"Water - Spring Water, 355 Ml",12.9,1
+579,1635033600000.0,Cake - Dulce De Leche,8.3,3
+580,1634515200000.0,Bay Leaf,18.7,3
+581,1634947200000.0,Muffin Puck Ww Carrot,13.1,3
+582,1634947200000.0,Sprouts - Onion,5.4,1
+583,1634860800000.0,"Carrots - Purple, Organic",10.1,5
+584,1634947200000.0,Pastry - Apple Large,4.6,2
+585,1634774400000.0,"Pesto - Primerba, Paste",8.3,3
+586,1634774400000.0,Banana,10.0,1
+587,1634774400000.0,Container - Clear 16 Oz,16.6,4
+588,1634601600000.0,Sauce - Caesar Dressing,7.4,3
+589,1635033600000.0,Muffins - Assorted,1.8,5
+590,1635033600000.0,Wine - Alsace Riesling Reserve,3.9,5
+591,1634515200000.0,Juice - Lime,12.6,1
+592,1634515200000.0,Fish - Bones,7.6,2
+593,1634601600000.0,Container - Clear 32 Oz,1.4,5
+594,1634688000000.0,Pate - Liver,7.9,1
+595,1634774400000.0,Soup Campbells - Tomato Bisque,1.1,3
+596,1635033600000.0,Evaporated Milk - Skim,10.3,2
+597,1634947200000.0,Wine - Shiraz Wolf Blass Premium,13.3,2
+598,1634947200000.0,Artichokes - Jerusalem,4.6,2
+599,1634947200000.0,"Oil - Truffle, Black",12.7,2
+600,1634601600000.0,Lemon Tarts,9.8,2
+601,1634515200000.0,Ocean Spray - Kiwi Strawberry,11.2,4
+602,1634601600000.0,Chicken - Whole,19.8,3
+603,1634515200000.0,Beets - Pickled,15.5,1
+604,1634860800000.0,Peach - Halves,9.0,2
+605,1634774400000.0,Petite Baguette,3.6,5
+606,1635033600000.0,Ecolab - Solid Fusion,7.7,4
+607,1634947200000.0,Apron,14.1,1
+608,1634688000000.0,Beans - Soya Bean,4.8,2
+609,1634860800000.0,"Nut - Hazelnut, Whole",4.1,4
+610,1634601600000.0,The Pop Shoppe - Black Cherry,16.6,4
+611,1635033600000.0,Anisette - Mcguiness,18.0,3
+612,1635033600000.0,"Beef - Chuck, Boneless",11.8,5
+613,1634515200000.0,"Tendrils - Baby Pea, Organic",3.4,3
+614,1635033600000.0,Lidsoupcont Rp12dn,8.3,2
+615,1634860800000.0,Campari,14.1,5
+616,1634947200000.0,Sobe - Berry Energy,11.2,2
+617,1634860800000.0,"Chestnuts - Whole,canned",20.0,4
+618,1634601600000.0,Artichokes - Jerusalem,16.5,5
+619,1634947200000.0,Eggs - Extra Large,18.0,5
+620,1634515200000.0,Pork - Backs - Boneless,6.7,1
+621,1634688000000.0,Cookies - Fortune,9.3,2
+622,1635033600000.0,Durian Fruit,14.8,4
+623,1634601600000.0,Flavouring - Raspberry,2.5,5
+624,1634860800000.0,Munchies Honey Sweet Trail Mix,3.3,5
+625,1634947200000.0,"Iced Tea - Lemon, 460 Ml",17.9,2
+626,1634515200000.0,"Rum - Spiced, Captain Morgan",11.5,1
+627,1635033600000.0,Flour - Teff,5.0,2
+628,1634688000000.0,Coriander - Seed,19.7,5
+629,1635033600000.0,Cheese - Comtomme,9.0,4
+630,1634860800000.0,Bread Base - Italian,10.6,3
+631,1634688000000.0,Beer - Sleemans Honey Brown,2.2,2
+632,1634947200000.0,Crackers - Soda / Saltins,10.6,1
+633,1634601600000.0,Garbag Bags - Black,6.3,3
+634,1634688000000.0,Ecolab - Hand Soap Form Antibac,12.0,1
+635,1634860800000.0,"Soup - Campbells, Creamy",19.9,3
+636,1634860800000.0,"Coffee - Colombian, Portioned",13.1,1
+637,1634774400000.0,"Water - Spring Water, 355 Ml",7.9,5
+638,1635033600000.0,Rootbeer,8.5,3
+639,1634601600000.0,V8 Splash Strawberry Banana,18.8,5
+640,1634774400000.0,"Pork - Sausage, Medium",13.3,4
+641,1634688000000.0,"Soup - Campbells, Creamy",18.3,3
+642,1635033600000.0,Pepper - Red Thai,10.3,1
+643,1634947200000.0,"Bread - Multigrain, Loaf",17.3,5
+644,1634601600000.0,Fennel,17.2,3
+645,1634947200000.0,Apple - Northern Spy,15.2,2
+646,1635033600000.0,Bread - White Epi Baguette,9.4,3
+647,1634774400000.0,Lady Fingers,17.4,4
+648,1634774400000.0,Broom Handle,7.0,2
+649,1634515200000.0,Cookie Double Choco,1.1,4
+650,1634515200000.0,Beer - Sleemans Honey Brown,6.5,3
+651,1634515200000.0,Cauliflower,7.5,5
+652,1634601600000.0,Table Cloth 53x53 White,5.3,2
+653,1634601600000.0,Sage Ground Wiberg,3.4,4
+654,1634774400000.0,"Soup - Knorr, Chicken Noodle",15.6,5
+655,1634947200000.0,Bandage - Finger Cots,8.4,4
+656,1635033600000.0,Wine - Soave Folonari,9.8,3
+657,1634515200000.0,"Beans - Fava, Canned",18.0,4
+658,1634947200000.0,Bacardi Raspberry,12.5,5
+659,1634774400000.0,Sage - Fresh,5.1,2
+660,1634515200000.0,Cocoa Powder - Natural,19.4,5
+661,1634688000000.0,Cloves - Ground,18.4,2
+662,1634774400000.0,Bay Leaf,18.2,1
+663,1634774400000.0,Onions - Vidalia,14.2,5
+664,1634860800000.0,Spring Roll Veg Mini,4.0,5
+665,1634774400000.0,Beef Cheek Fresh,7.1,1
+666,1634774400000.0,Muffin Mix - Chocolate Chip,9.1,2
+667,1634688000000.0,Longan,12.5,5
+668,1635033600000.0,Bread - Corn Muffaleta Onion,18.4,2
+669,1634947200000.0,Onions - White,13.6,5
+670,1634601600000.0,Passion Fruit,14.4,5
+671,1635033600000.0,Tea - Camomele,9.8,1
+672,1634947200000.0,Magnotta Bel Paese Red,12.7,1
+673,1634601600000.0,Shiratamako - Rice Flour,10.3,4
+674,1634947200000.0,Fenngreek Seed,18.1,1
+675,1634947200000.0,Tuna - Fresh,7.3,5
+676,1634860800000.0,Sage Derby,11.7,2
+677,1634774400000.0,Melon - Honey Dew,1.7,5
+678,1634947200000.0,Quinoa,16.6,2
+679,1634860800000.0,"Rice Pilaf, Dry,package",5.8,3
+680,1634860800000.0,Tuna - Salad Premix,11.8,3
+681,1635033600000.0,Apricots - Halves,14.6,5
+682,1635033600000.0,"Wine - Harrow Estates, Vidal",3.6,1
+683,1634688000000.0,Napkin White - Starched,19.4,3
+684,1634774400000.0,Gatorade - Orange,3.4,2
+685,1634601600000.0,Foil Wrap,8.2,3
+686,1634688000000.0,Pizza Pizza Dough,19.8,4
+687,1635033600000.0,"Oranges - Navel, 72",5.0,1
+688,1634515200000.0,Sage - Ground,11.0,3
+689,1634774400000.0,Mayonnaise - Individual Pkg,13.5,3
+690,1634515200000.0,Daves Island Stinger,9.7,5
+691,1634860800000.0,Tofu - Soft,5.7,4
+692,1634860800000.0,Oven Mitt - 13 Inch,9.9,3
+693,1634601600000.0,Halibut - Fletches,3.7,5
+694,1634601600000.0,Tandoori Curry Paste,4.3,1
+695,1634601600000.0,"Crab - Dungeness, Whole, live",5.5,2
+696,1634860800000.0,Water - San Pellegrino,8.6,5
+697,1634515200000.0,Apples - Spartan,4.6,5
+698,1634601600000.0,Wine - Lou Black Shiraz,18.3,5
+699,1634688000000.0,Chick Peas - Canned,12.3,2
+700,1634688000000.0,Longos - Chicken Wings,19.3,5
+701,1634860800000.0,"Veal - Brisket, Provimi,bnls",3.3,2
+702,1634688000000.0,Beans - Kidney White,4.6,3
+703,1634860800000.0,Corn Kernels - Frozen,15.2,2
+704,1634601600000.0,Olives - Morracan Dired,11.1,2
+705,1634774400000.0,"Crab - Dungeness, Whole, live",14.2,5
+706,1634774400000.0,Bagel - Plain,4.3,4
+707,1634947200000.0,"Lamb - Loin, Trimmed, Boneless",13.0,1
+708,1635033600000.0,Horseradish Root,7.5,1
+709,1634601600000.0,Chicken - Wieners,13.1,4
+710,1634860800000.0,"Rum - Dark, Bacardi, Black",19.2,1
+711,1635033600000.0,Ice Cream Bar - Hageen Daz To,8.2,2
+712,1634774400000.0,Muffin Hinge - 211n,13.4,4
+713,1634947200000.0,Sausage - Andouille,13.3,2
+714,1634947200000.0,"Lamb - Loin, Trimmed, Boneless",18.6,3
+715,1634774400000.0,Muffin - Bran Ind Wrpd,14.2,5
+716,1634860800000.0,Cheese - Taleggio D.o.p.,6.4,2
+717,1634601600000.0,Chocolate Bar - Reese Pieces,19.8,4
+718,1634860800000.0,Beer - Moosehead,3.7,1
+719,1635033600000.0,Miso Paste White,9.0,2
+720,1634860800000.0,Appetizer - Mushroom Tart,1.3,4
+721,1634860800000.0,Bamboo Shoots - Sliced,19.1,2
+722,1634601600000.0,Yoplait Drink,7.0,5
+723,1635033600000.0,"Soup - Knorr, Country Bean",7.2,2
+724,1635033600000.0,Fiddlehead - Frozen,7.2,2
+725,1634515200000.0,Toothpick Frilled,12.5,4
+726,1634860800000.0,Watercress,3.8,5
+727,1634515200000.0,Nantucket - Kiwi Berry Cktl.,5.9,1
+728,1635033600000.0,Pepper - Chili Powder,3.8,3
+729,1635033600000.0,Pickle - Dill,2.7,3
+730,1634947200000.0,"Tray - Foam, Square 4 - S",16.8,4
+731,1634601600000.0,Roe - Flying Fish,19.6,3
+732,1634688000000.0,Sobe - Green Tea,7.6,4
+733,1634688000000.0,Carbonated Water - White Grape,2.9,4
+734,1634515200000.0,Red Currants,14.0,4
+735,1634947200000.0,Chocolate - Milk Coating,13.5,1
+736,1634515200000.0,Coffee - Dark Roast,5.6,2
+737,1634774400000.0,Garbage Bag - Clear,18.6,2
+738,1634515200000.0,Cookie Double Choco,12.9,4
+739,1634860800000.0,Cheese - Gouda Smoked,4.5,5
+740,1634515200000.0,Wheat - Soft Kernal Of Wheat,5.6,5
+741,1635033600000.0,Kellogs All Bran Bars,15.0,5
+742,1634688000000.0,French Kiss Vanilla,15.2,3
+743,1634688000000.0,Coffee Swiss Choc Almond,5.5,4
+744,1634601600000.0,Soup - Cream Of Broccoli,18.3,5
+745,1634947200000.0,Tahini Paste,3.6,5
+746,1634947200000.0,Beer - Blue Light,14.5,3
+747,1634860800000.0,Venison - Liver,12.6,1
+748,1635033600000.0,Pepper - Scotch Bonnet,4.5,3
+749,1634947200000.0,Lamb - Shoulder,1.4,1
+750,1634774400000.0,V8 - Berry Blend,18.1,2
+751,1635033600000.0,"Split Peas - Yellow, Dry",7.9,3
+752,1634688000000.0,Salad Dressing,15.1,1
+753,1634947200000.0,Puree - Pear,11.4,2
+754,1634601600000.0,Wine - Two Oceans Sauvignon,4.4,4
+755,1634860800000.0,Beans - Kidney White,14.6,4
+756,1634947200000.0,Chinese Lemon Pork,6.6,1
+757,1634947200000.0,Sprouts - Alfalfa,7.1,5
+758,1635033600000.0,Gingerale - Diet - Schweppes,17.8,2
+759,1634515200000.0,Apron,1.7,5
+760,1635033600000.0,Towels - Paper / Kraft,13.6,4
+761,1634515200000.0,"Nut - Cashews, Whole, Raw",6.3,1
+762,1635033600000.0,Lobster - Tail 6 Oz,4.5,2
+763,1634688000000.0,"Soup - Campbells, Lentil",4.5,5
+764,1635033600000.0,Wine - Segura Viudas Aria Brut,6.0,4
+765,1634601600000.0,Gatorade - Cool Blue Raspberry,13.4,2
+766,1635033600000.0,Bread - Dark Rye,11.7,5
+767,1634774400000.0,Orange - Blood,11.7,3
+768,1634515200000.0,Kahlua,14.4,5
+769,1634515200000.0,Haggis,17.5,1
+770,1634774400000.0,Mousse - Mango,18.4,1
+771,1634947200000.0,"Split Peas - Yellow, Dry",4.7,2
+772,1634947200000.0,Ginger - Ground,6.9,5
+773,1634774400000.0,"Bread - White, Unsliced",14.2,4
+774,1634601600000.0,Juice - Ocean Spray Kiwi,4.7,1
+775,1634860800000.0,Broom - Corn,5.4,4
+776,1634601600000.0,Bar Energy Chocchip,9.8,5
+777,1634860800000.0,Beef - Montreal Smoked Brisket,3.4,2
+778,1634774400000.0,Vodka - Moskovskaya,9.4,5
+779,1634515200000.0,"Beef - Rib Roast, Capless",18.0,1
+780,1634688000000.0,Soup - Campbells Beef Strogonoff,9.9,2
+781,1634515200000.0,Crackers - Soda / Saltins,6.2,1
+782,1634515200000.0,Garbag Bags - Black,4.1,1
+783,1634860800000.0,Aspic - Clear,1.3,2
+784,1634774400000.0,"Marsala - Sperone, Fine, D.o.c.",13.4,5
+785,1634688000000.0,"Tart Shells - Savory, 4",2.3,2
+786,1634688000000.0,Bouillion - Fish,10.8,1
+787,1634860800000.0,"Lid - 10,12,16 Oz",16.3,2
+788,1634860800000.0,Pastry - Choclate Baked,5.8,2
+789,1634601600000.0,Lamb - Rack,1.7,1
+790,1635033600000.0,Glass - Juice Clear 5oz 55005,5.8,3
+791,1634515200000.0,Mussels - Frozen,7.0,1
+792,1634774400000.0,Milk - Condensed,5.8,5
+793,1634601600000.0,Scallops - 10/20,10.4,2
+794,1634515200000.0,"Wine - White, Ej",14.6,3
+795,1634774400000.0,"Coconut - Shredded, Sweet",3.4,1
+796,1634947200000.0,Cognac - Courvaisier,11.8,4
+797,1634688000000.0,Pear - Asian,16.5,3
+798,1635033600000.0,Snails - Large Canned,3.6,1
+799,1634947200000.0,Trueblue - Blueberry,13.4,5
+800,1634947200000.0,Tuna - Sushi Grade,18.3,3
+801,1634515200000.0,Muffin Batt - Choc Chk,14.4,4
+802,1634601600000.0,"Chilli Paste, Hot Sambal Oelek",14.2,4
+803,1634947200000.0,Tofu - Firm,10.6,3
+804,1634515200000.0,"Tarragon - Primerba, Paste",1.3,1
+805,1635033600000.0,"Beef - Bones, Cut - Up",12.6,2
+806,1634601600000.0,Grapes - Red,18.4,2
+807,1634688000000.0,Sauce - Soy Low Sodium - 3.87l,18.1,3
+808,1635033600000.0,Wine - Clavet Saint Emilion,3.9,5
+809,1635033600000.0,Wine - Chateau Timberlay,16.2,2
+810,1634860800000.0,Berry Brulee,19.3,5
+811,1635033600000.0,Pork - Shoulder,10.6,1
+812,1634947200000.0,Sauce - Ranch Dressing,10.2,5
+813,1634947200000.0,Spice - Peppercorn Melange,19.5,2
+814,1634601600000.0,Dc Hikiage Hira Huba,13.2,2
+815,1634774400000.0,Table Cloth 54x54 White,1.2,5
+816,1634688000000.0,Milk - 2% 250 Ml,14.5,2
+817,1634688000000.0,Cake - Box Window 10x10x2.5,16.0,1
+818,1634688000000.0,Steel Wool S.o.s,2.6,2
+819,1634601600000.0,"Coffee - Beans, Whole",6.1,5
+820,1634515200000.0,Scallops - Live In Shell,4.5,3
+821,1635033600000.0,Drambuie,12.7,4
+822,1634515200000.0,Mustard - Dijon,10.4,1
+823,1635033600000.0,Beef - Short Loin,1.9,5
+824,1634515200000.0,Lettuce - Arugula,8.1,3
+825,1634601600000.0,"Jam - Raspberry,jar",8.6,2
+826,1634515200000.0,Temperature Recording Station,3.8,3
+827,1634688000000.0,Cake Sheet Combo Party Pack,10.1,5
+828,1634947200000.0,"Pail - 15l White, With Handle",17.2,2
+829,1634774400000.0,Pastry - Choclate Baked,15.4,5
+830,1634947200000.0,"Shrimp - 16/20, Iqf, Shell On",12.9,4
+831,1634774400000.0,"Wine - Red, Wolf Blass, Yellow",18.6,5
+832,1634601600000.0,Syrup - Chocolate,1.7,1
+833,1634947200000.0,"Soup - Canadian Pea, Dry Mix",3.3,4
+834,1635033600000.0,Cookies - Englishbay Chochip,17.5,5
+835,1634601600000.0,Island Oasis - Sweet And Sour Mix,2.9,4
+836,1634947200000.0,Glass Clear 8 Oz,5.0,1
+837,1634601600000.0,Shrimp - Prawn,16.9,4
+838,1634601600000.0,Bread - 10 Grain Parisian,8.6,4
+839,1634774400000.0,Sauce - Salsa,12.0,1
+840,1634774400000.0,Wine - Pinot Noir Latour,11.1,5
+841,1634774400000.0,Mousse - Banana Chocolate,5.4,2
+842,1634601600000.0,Wine - Domaine Boyar Royal,7.2,5
+843,1634515200000.0,Mushroom - King Eryingii,16.6,1
+844,1634774400000.0,Gooseberry,8.9,4
+845,1634947200000.0,Garlic - Peeled,13.6,3
+846,1634774400000.0,Fondant - Icing,11.7,3
+847,1634860800000.0,Jam - Apricot,15.0,4
+848,1634601600000.0,"Pasta - Bauletti, Chicken White",10.8,4
+849,1635033600000.0,"Bread - Bagels, Plain",14.2,1
+850,1635033600000.0,Pineapple - Regular,13.4,4
+851,1634947200000.0,"Beans - Kidney, Red Dry",6.7,3
+852,1634515200000.0,Puff Pastry - Slab,3.5,2
+853,1635033600000.0,Laundry - Bag Cloth,14.0,2
+854,1634601600000.0,Sobe - Tropical Energy,18.2,4
+855,1634688000000.0,Mince Meat - Filling,13.2,2
+856,1634774400000.0,Initation Crab Meat,14.0,2
+857,1634601600000.0,"Apple - Delicious, Golden",11.8,2
+858,1634774400000.0,Ecolab - Ster Bac,16.0,1
+859,1635033600000.0,Pur Value,18.2,3
+860,1634688000000.0,Chip - Potato Dill Pickle,16.5,2
+861,1634947200000.0,"Wine - Red, Cooking",14.9,5
+862,1634515200000.0,Sauce - Hollandaise,12.7,3
+863,1634860800000.0,Bagel - Sesame Seed Presliced,15.0,5
+864,1634515200000.0,"Squash - Pattypan, Yellow",14.1,2
+865,1635033600000.0,"Mushroom - Chantrelle, Fresh",15.3,5
+866,1634774400000.0,"Artichoke - Hearts, Canned",15.2,1
+867,1634860800000.0,"Wine - White, Ej Gallo",18.6,3
+868,1635033600000.0,Syrup - Pancake,14.7,3
+869,1635033600000.0,Wine - Vovray Sec Domaine Huet,9.7,5
+870,1635033600000.0,Wooden Mop Handle,14.0,1
+871,1634515200000.0,Eggs - Extra Large,7.3,3
+872,1634515200000.0,Pan Grease,1.8,3
+873,1635033600000.0,Beets,12.4,1
+874,1635033600000.0,Onion - Dried,16.5,2
+875,1634774400000.0,Squid - Breaded,13.0,1
+876,1634947200000.0,Puree - Raspberry,10.5,3
+877,1635033600000.0,Island Oasis - Lemonade,15.2,2
+878,1634601600000.0,Green Scrubbie Pad H.duty,11.1,5
+879,1634947200000.0,"Beans - Black Bean, Canned",16.4,3
+880,1634688000000.0,Chips Potato Swt Chilli Sour,16.7,5
+881,1634860800000.0,Pickerel - Fillets,14.4,4
+882,1634688000000.0,Pork Loin Bine - In Frenched,13.0,3
+883,1634688000000.0,Wine - Spumante Bambino White,17.6,1
+884,1634774400000.0,"Beef - Tenderlion, Center Cut",7.1,1
+885,1634947200000.0,Beer - Maudite,10.0,4
+886,1634601600000.0,Cumin - Ground,10.4,5
+887,1634774400000.0,Chicken - Soup Base,7.9,3
+888,1634860800000.0,Sauce - Hp,10.3,2
+889,1634601600000.0,Pop - Club Soda Can,12.7,1
+890,1635033600000.0,"Nut - Walnut, Chopped",17.0,3
+891,1634774400000.0,"Wine - Red, Lurton Merlot De",8.5,2
+892,1634860800000.0,Pastry - Lemon Danish - Mini,7.1,2
+893,1634688000000.0,Wine - Chablis J Moreau Et Fils,16.6,1
+894,1635033600000.0,Aspic - Amber,11.3,1
+895,1635033600000.0,Clam Nectar,15.5,4
+896,1634947200000.0,Chicken - Whole,14.5,4
+897,1635033600000.0,Chick Peas - Dried,4.1,2
+898,1634860800000.0,Duck - Whole,6.6,3
+899,1635033600000.0,Squash - Butternut,9.4,2
+900,1634515200000.0,Tomatoes - Orange,11.9,1
+901,1634515200000.0,Garbage Bag - Clear,16.0,2
+902,1635033600000.0,Mackerel Whole Fresh,8.8,2
+903,1634515200000.0,Catfish - Fillets,2.4,2
+904,1634688000000.0,Grapefruit - White,3.1,2
+905,1634515200000.0,Wild Boar - Tenderloin,1.1,2
+906,1634688000000.0,Rice - Aborio,18.0,1
+907,1634688000000.0,Pastry - Plain Baked Croissant,6.0,1
+908,1635033600000.0,Wine - Gewurztraminer Pierre,4.9,2
+909,1634947200000.0,Wine - Segura Viudas Aria Brut,2.4,3
+910,1634947200000.0,Muffin Mix - Carrot,5.9,5
+911,1634688000000.0,Sauce Bbq Smokey,10.3,5
+912,1634515200000.0,"Pasta - Fusili, Dry",2.9,1
+913,1634947200000.0,"Cheese - Cheddar, Mild",9.0,3
+914,1634774400000.0,Wine - Winzer Krems Gruner,4.5,5
+915,1634601600000.0,Crawfish,11.7,1
+916,1634688000000.0,Marzipan 50/50,5.1,4
+917,1634688000000.0,Melon - Honey Dew,12.2,2
+918,1634860800000.0,Cookie Trail Mix,12.7,2
+919,1634515200000.0,Sherry - Dry,8.3,1
+920,1634515200000.0,Energy Drink Bawls,9.5,3
+921,1634774400000.0,"Soup - Campbells, Classic Chix",9.7,5
+922,1634515200000.0,Eggplant Oriental,4.1,3
+923,1635033600000.0,Cheese - Le Cheve Noir,14.5,4
+924,1634947200000.0,Apple - Fuji,19.9,3
+925,1635033600000.0,Juice - V8 Splash,6.0,4
+926,1634860800000.0,Grapefruit - Pink,15.3,2
+927,1634601600000.0,"Thyme - Lemon, Fresh",5.7,5
+928,1634947200000.0,"Basil - Dry, Rubbed",18.3,1
+929,1634688000000.0,Ecolab - Ster Bac,7.0,1
+930,1634860800000.0,"Doilies - 8, Paper",13.2,3
+931,1634947200000.0,Fuji Apples,11.2,3
+932,1635033600000.0,Wine - Valpolicella Masi,3.1,2
+933,1634947200000.0,Marzipan 50/50,12.7,3
+934,1635033600000.0,Spinach - Frozen,17.2,5
+935,1634688000000.0,Potatoes - Pei 10 Oz,11.2,3
+936,1635033600000.0,Soup - Cream Of Potato / Leek,1.8,4
+937,1634774400000.0,Cookies - Englishbay Oatmeal,7.0,5
+938,1634601600000.0,Wine - Winzer Krems Gruner,5.5,2
+939,1634774400000.0,Sprouts Dikon,5.9,2
+940,1634601600000.0,Sauce - Plum,3.1,5
+941,1634515200000.0,Sauce - Vodka Blush,12.1,1
+942,1634688000000.0,Pail With Metal Handle 16l White,12.5,3
+943,1634515200000.0,Wine - Chianti Classica Docg,18.0,2
+944,1635033600000.0,Marjoram - Fresh,9.4,5
+945,1634860800000.0,Petite Baguette,17.3,3
+946,1634515200000.0,Ecolab - Power Fusion,16.3,2
+947,1634688000000.0,Wine - Sicilia Igt Nero Avola,14.4,4
+948,1634947200000.0,Dragon Fruit,13.8,5
+949,1634688000000.0,Wine - Balbach Riverside,3.6,3
+950,1634601600000.0,Pears - Anjou,11.2,3
+951,1634860800000.0,"Pepper - Chillies, Crushed",15.7,1
+952,1634774400000.0,Bay Leaf Ground,18.3,2
+953,1634774400000.0,Liquid Aminios Acid - Braggs,10.4,3
+954,1634860800000.0,Scallops - Live In Shell,14.7,3
+955,1634860800000.0,"Sparkling Wine - Rose, Freixenet",3.0,1
+956,1634515200000.0,Pur Value,15.9,5
+957,1634688000000.0,"Pepsi - Diet, 355 Ml",6.1,4
+958,1634601600000.0,Nectarines,15.1,3
+959,1634688000000.0,Paper - Brown Paper Mini Cups,13.3,5
+960,1634860800000.0,Hersey Shakes,5.8,5
+961,1634774400000.0,Island Oasis - Sweet And Sour Mix,11.4,4
+962,1634860800000.0,"Orange - Canned, Mandarin",9.3,3
+963,1634688000000.0,Pork Loin Bine - In Frenched,3.1,4
+964,1634515200000.0,"Rum - Cream, Amarula",2.7,2
+965,1634774400000.0,Ocean Spray - Ruby Red,19.4,4
+966,1634601600000.0,Bagel - Everything Presliced,5.9,3
+967,1634774400000.0,Soup - Cream Of Broccoli,8.8,4
+968,1634601600000.0,Cookies Oatmeal Raisin,10.0,4
+969,1634601600000.0,"Brownies - Two Bite, Chocolate",3.2,3
+970,1634688000000.0,Tea - Herbal Sweet Dreams,9.9,1
+971,1634601600000.0,Pickerel - Fillets,5.2,4
+972,1634947200000.0,Plasticspoonblack,12.6,5
+973,1634601600000.0,Chickensplit Half,8.7,1
+974,1635033600000.0,"Ice - Clear, 300 Lb For Carving",11.5,5
+975,1634947200000.0,"Quail - Whole, Boneless",6.8,4
+976,1634860800000.0,Longos - Chicken Caeser Salad,9.4,2
+977,1634947200000.0,Squid - Tubes / Tenticles 10/20,19.2,1
+978,1635033600000.0,Muffin Mix - Oatmeal,4.7,1
+979,1634860800000.0,Wine - Redchard Merritt,2.0,1
+980,1634515200000.0,Vaccum Bag - 14x20,8.9,5
+981,1634947200000.0,Beans - Wax,4.1,2
+982,1634688000000.0,Dc - Frozen Momji,5.4,2
+983,1634947200000.0,"Fish - Artic Char, Cold Smoked",1.3,1
+984,1634515200000.0,Milk - Homo,12.5,1
+985,1634947200000.0,"Flour - Bran, Red",10.5,4
+986,1634515200000.0,"7up Diet, 355 Ml",9.6,2
+987,1634947200000.0,Cheese - St. Andre,16.8,5
+988,1634515200000.0,"Capon - Breast, Double, Wing On",6.7,4
+989,1634515200000.0,"Pail - 15l White, With Handle",13.8,1
+990,1635033600000.0,Muffin Mix - Banana Nut,15.4,1
+991,1634688000000.0,Kiwi Gold Zespri,19.3,5
+992,1635033600000.0,Lettuce - Frisee,7.5,4
+993,1634688000000.0,Initation Crab Meat,3.7,4
+994,1634947200000.0,Cup Translucent 9 Oz,3.1,2
+995,1634947200000.0,Fondant - Icing,7.4,4
+996,1635033600000.0,Sauce - Sesame Thai Dressing,7.9,4
+997,1634947200000.0,"Nut - Hazelnut, Whole",2.6,3
+998,1635033600000.0,Assorted Desserts,2.4,5
+999,1634947200000.0,Kolrabi,10.8,2
+1000,1634515200000.0,Red Cod Fillets - 225g,7.8,4
