@@ -9,7 +9,7 @@ def create_properties_files(trainee):
     trainee=%s
 
     dam.activity.environment=workshop
-    dam.activity.projects=dodd
+    dam.activity.projects=%s_dodd
     dam.activity.explicit.process.name=%s
     dam.activity.explicit.process_run.name=%s
     dam.activity.code.repository=binder://workshop-dodd
@@ -57,7 +57,7 @@ def create_properties_files(trainee):
     i = 0
     for app in apps:
         for week in weeks:
-            p = prop % (trainee, app, app, week)
+            p = prop % (trainee, trainee, app, app, week)
             with open("conf/application%d-week%d.properties" % (apps.index(app)+1, weeks.index(week)+1), "w") as f:
                 f.write(p)
 
