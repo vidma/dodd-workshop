@@ -3,11 +3,27 @@ import shutil
 
 
 
-def create_properties_files(trainee):
+def create_properties_files(trainee, api_url = "", ingestion_token = "",pat="", sdk_url ="", offline= False):
+    
+    if not offline and (api_url == "" or ingestion_token == ""):
+        raise Exception("Missing api_url or token")
+        
+    
+    if (api_url == "" and ingestion_token != "") or (api_url != "" and ingestion_token == ""):
+        raise Exception("Missing PAT or SDK_URL")
+    
+        
 
     prop = """
-    trainee=%s
-
+    
+    dam.activity.user=%s
+    
+    dam.ingestion.url=%s
+    dam.ingestion.auth.token=%s
+    
+    kensu.pat=%s
+    kensu.sdk.url=%s
+    
     dam.activity.environment=workshop
     dam.activity.projects=%s_dodd
     dam.activity.explicit.process.name=%s
@@ -33,7 +49,7 @@ def create_properties_files(trainee):
     dam.spark.data_stats.output.coalesceEnabled=false
     dam.spark.data_stats.output.coalesceWorkers=1
 
-    dam.ingestion.is_offline=false
+    dam.ingestion.is_offline=%s
     dam.ingestion.offline.file=entities.log
     dam.ingestion.ignore.ssl.cert=true
     dam.ingestion.entity.compaction=true
@@ -57,7 +73,9 @@ def create_properties_files(trainee):
     i = 0
     for app in apps:
         for week in weeks:
-            p = prop % (trainee, trainee, app, app, week)
+            p = prop % (trainee, api_url, ingestion_token, pat, sdk_url, trainee, app, app, week, str(offline).lower())
             with open("conf/application%d-week%d.properties" % (apps.index(app)+1, weeks.index(week)+1), "w") as f:
                 f.write(p)
+
+
 
