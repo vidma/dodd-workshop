@@ -53,7 +53,7 @@ def create_properties_files(trainee):
     shutil.move("./data", "./data_"+trainee)
 
     apps = ["Data Preparation", "KPI"]
-    weeks = [1635112800000,1635717600000,1636236000000]
+    weeks = [1635112800000,1635717600000,1636236000000,1636934400000]
     i = 0
     for app in apps:
         for week in weeks:
