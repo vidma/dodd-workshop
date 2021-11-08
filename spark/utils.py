@@ -73,9 +73,10 @@ def create_properties_files(trainee, api_url = "", ingestion_token = "",pat="", 
     i = 0
     for app in apps:
         for week in weeks:
-            p = prop % (trainee, api_url, ingestion_token, pat, sdk_url, trainee, app, app, week, str(offline).lower())
+            p = prop % (trainee, api_url, ingestion_token, pat, sdk_url, trainee, app, app+trainee, week, str(offline).lower())
             with open("conf/application%d-week%d.properties" % (apps.index(app)+1, weeks.index(week)+1), "w") as f:
                 f.write(p)
+
 
 
 
