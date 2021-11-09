@@ -56,7 +56,7 @@ def create_properties_files(trainee, api_url = "", ingestion_token = "",pat="", 
     dam.spark.data_stats.enabled=true
     dam.spark.data_stats.input.enabled=true
     dam.spark.data_stats.input.only_used_in_lineage=true
-    dam.spark.data_stats.input.keep_filters=true
+    dam.spark.data_stats.input.keep_filters=false
     dam.spark.shutdown_timeout=600
 
     dam.spark.file_debug.level=INFO
