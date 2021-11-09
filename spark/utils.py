@@ -66,7 +66,6 @@ def create_properties_files(trainee, api_url = "", ingestion_token = "",pat="", 
     dam.activity.spark.environnement.provider=io.kensu.dam.lineage.spark.lineage.DefaultSparkEnvironnementProvider
     """
 
-    shutil.move("./data", "./data_"+trainee)
 
     apps = ["Data Preparation", "KPI"]
     weeks = [1635112800000,1635717600000,1636236000000,1636934400000]
