@@ -12,18 +12,19 @@ def run(months):
     for month in months:
         pipeline(month)
 
-
 def pipeline(month):
-    print("Starting Month %s" % month)
     k = KensuProvider().initKensu()
     customers_info = pd.read_csv('../data/%s/customers-data.csv' % month)
     contact_info = pd.read_csv('../data/%s/contact-data.csv' % month)
-
     business_info = pd.read_csv('../data/%s/business-data.csv' % month)
+    
     customer360 = customers_info.merge(contact_info,on='id')
     month_data = pd.merge(customer360,business_info)
     month_data = data_prep(month_data)
+    
+    # This is where consistency is requested to be checked (published and validated)
     check_nrows_consistency()
+    
     month_data.to_csv('../data/data.csv',index=False)
 
 def data_prep(data):
