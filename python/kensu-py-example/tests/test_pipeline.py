@@ -17,7 +17,7 @@ class TestPipeline(unittest.TestCase):
     def setUp(self):
         pass
 
-    def tearDown(slef):
+    def tearDown(self):
         pass
 
     def test_pipeline_checks_nrows_consistency(self):
